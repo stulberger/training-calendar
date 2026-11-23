@@ -9,7 +9,7 @@ REFRESH-INTERVAL;VALUE=DURATION:PT6H
 X-PUBLISHED-TTL:PT6H
 BEGIN:VEVENT
 UID:w1-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 TRANSP:TRANSPARENT
@@ -18,7 +18,7 @@ DESCRIPTION:Week 1. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w1-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 TRANSP:TRANSPARENT
@@ -27,7 +27,7 @@ DESCRIPTION:Week 1. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w1-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 TRANSP:TRANSPARENT
@@ -36,7 +36,7 @@ DESCRIPTION:Week 1. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w1-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261117
 DTEND;VALUE=DATE:20261118
 TRANSP:TRANSPARENT
@@ -44,16 +44,17 @@ SUMMARY:Run 3 mi: Easy run + strides
 DESCRIPTION:Easy 3 mi + 4x20s strides\nPurpose of week: Re-entry: easy mile
  s and strides to confirm the foot\, back and legs tolerate running again. 
  Saturday run paused for sore legs.\nPhase: Recover from the NYC Marathon D
- NF and\, on your doctor's advice\, ramp up very slowly through December: e
- asy running only\, mileage held near 15-17 a week\, no quality sessions. R
- eassess in January.\nPace: Easy 9:40-10:30\; strides ~7:20 (20s)\nShoe: Cl
- ifton Pro\nWeek 1\, 1 Recovery & slow ramp\, 15 mi total\nNote: Easy runs 
- plus strides (relaxed\, 20 s). Check urine color\, lateral foot\, low back
-  (<=2/10). Saturday run paused while legs recover (strength only).
+ NF and\, on your doctor's advice\, ramp up very slowly through December: m
+ ostly easy running with one speed session a week\, long runs capped at 9 m
+ iles until 2027. Reassess in January.\nPace: Easy 9:40-10:30\; strides ~7:
+ 20 (20s)\nShoe: Clifton Pro\nWeek 1\, 1 Recovery & slow ramp\, 15 mi total
+ \nNote: Easy runs plus strides (relaxed\, 20 s). Check urine color\, later
+ al foot\, low back (<=2/10). Saturday run paused while legs recover (stren
+ gth only).
 END:VEVENT
 BEGIN:VEVENT
 UID:w1-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261118
 DTEND;VALUE=DATE:20261119
 TRANSP:TRANSPARENT
@@ -61,16 +62,16 @@ SUMMARY:Run 3 mi: Easy run
 DESCRIPTION:Easy 3 mi\nPurpose of week: Re-entry: easy miles and strides to
   confirm the foot\, back and legs tolerate running again. Saturday run pau
  sed for sore legs.\nPhase: Recover from the NYC Marathon DNF and\, on your
-  doctor's advice\, ramp up very slowly through December: easy running only
- \, mileage held near 15-17 a week\, no quality sessions. Reassess in Janua
- ry.\nPace: Easy 9:40-10:30/mi\, HR <=150\nShoe: Clifton Pro\nWeek 1\, 1 Re
- covery & slow ramp\, 15 mi total\nNote: Easy runs plus strides (relaxed\, 
- 20 s). Check urine color\, lateral foot\, low back (<=2/10). Saturday run 
- paused while legs recover (strength only).
+  doctor's advice\, ramp up very slowly through December: mostly easy runni
+ ng with one speed session a week\, long runs capped at 9 miles until 2027.
+  Reassess in January.\nPace: Easy 9:40-10:30/mi\, HR <=150\nShoe: Clifton 
+ Pro\nWeek 1\, 1 Recovery & slow ramp\, 15 mi total\nNote: Easy runs plus s
+ trides (relaxed\, 20 s). Check urine color\, lateral foot\, low back (<=2/
+ 10). Saturday run paused while legs recover (strength only).
 END:VEVENT
 BEGIN:VEVENT
 UID:w1-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261119
 DTEND;VALUE=DATE:20261120
 TRANSP:TRANSPARENT
@@ -78,16 +79,17 @@ SUMMARY:Run 4 mi: Easy run + strides
 DESCRIPTION:Easy 4 mi + 4x20s strides\nPurpose of week: Re-entry: easy mile
  s and strides to confirm the foot\, back and legs tolerate running again. 
  Saturday run paused for sore legs.\nPhase: Recover from the NYC Marathon D
- NF and\, on your doctor's advice\, ramp up very slowly through December: e
- asy running only\, mileage held near 15-17 a week\, no quality sessions. R
- eassess in January.\nPace: Easy 9:40-10:30\; strides ~7:20 (20s)\nShoe: Cl
- ifton Pro\nWeek 1\, 1 Recovery & slow ramp\, 15 mi total\nNote: Easy runs 
- plus strides (relaxed\, 20 s). Check urine color\, lateral foot\, low back
-  (<=2/10). Saturday run paused while legs recover (strength only).
+ NF and\, on your doctor's advice\, ramp up very slowly through December: m
+ ostly easy running with one speed session a week\, long runs capped at 9 m
+ iles until 2027. Reassess in January.\nPace: Easy 9:40-10:30\; strides ~7:
+ 20 (20s)\nShoe: Clifton Pro\nWeek 1\, 1 Recovery & slow ramp\, 15 mi total
+ \nNote: Easy runs plus strides (relaxed\, 20 s). Check urine color\, later
+ al foot\, low back (<=2/10). Saturday run paused while legs recover (stren
+ gth only).
 END:VEVENT
 BEGIN:VEVENT
 UID:w1-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261121
 DTEND;VALUE=DATE:20261122
 TRANSP:TRANSPARENT
@@ -96,7 +98,7 @@ DESCRIPTION:Week 1
 END:VEVENT
 BEGIN:VEVENT
 UID:w1-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261122
 DTEND;VALUE=DATE:20261123
 TRANSP:TRANSPARENT
@@ -104,16 +106,16 @@ SUMMARY:Run 5 mi: Easy run
 DESCRIPTION:Easy 5 mi\nPurpose of week: Re-entry: easy miles and strides to
   confirm the foot\, back and legs tolerate running again. Saturday run pau
  sed for sore legs.\nPhase: Recover from the NYC Marathon DNF and\, on your
-  doctor's advice\, ramp up very slowly through December: easy running only
- \, mileage held near 15-17 a week\, no quality sessions. Reassess in Janua
- ry.\nPace: Easy 9:40-10:30/mi\, HR <=150\nShoe: Clifton Pro\nWeek 1\, 1 Re
- covery & slow ramp\, 15 mi total\nNote: Easy runs plus strides (relaxed\, 
- 20 s). Check urine color\, lateral foot\, low back (<=2/10). Saturday run 
- paused while legs recover (strength only).
+  doctor's advice\, ramp up very slowly through December: mostly easy runni
+ ng with one speed session a week\, long runs capped at 9 miles until 2027.
+  Reassess in January.\nPace: Easy 9:40-10:30/mi\, HR <=150\nShoe: Clifton 
+ Pro\nWeek 1\, 1 Recovery & slow ramp\, 15 mi total\nNote: Easy runs plus s
+ trides (relaxed\, 20 s). Check urine color\, lateral foot\, low back (<=2/
+ 10). Saturday run paused while legs recover (strength only).
 END:VEVENT
 BEGIN:VEVENT
 UID:w2-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261124
 TRANSP:TRANSPARENT
@@ -122,7 +124,7 @@ DESCRIPTION:Week 2. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w2-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 TRANSP:TRANSPARENT
@@ -131,7 +133,7 @@ DESCRIPTION:Week 2. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w2-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -140,58 +142,62 @@ DESCRIPTION:Week 2. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w2-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 TRANSP:TRANSPARENT
-SUMMARY:Run 3 mi: Easy run
-DESCRIPTION:Easy 3 mi\nPurpose of week: Slow ramp (doctor's guidance): easy
-  running only\, mileage held near 15. The goal is consistency and recovery
- \, not fitness gains.\nPhase: Recover from the NYC Marathon DNF and\, on y
- our doctor's advice\, ramp up very slowly through December: easy running o
- nly\, mileage held near 15-17 a week\, no quality sessions. Reassess in Ja
- nuary.\nPace: Easy 9:40-10:30/mi\, HR <=150\nShoe: Clifton Pro\nWeek 2\, 1
-  Recovery & slow ramp\, 15 mi total\nNote: Slow ramp per your doctor: easy
-  runs only\, mileage held near 15. No quality sessions. Fuel well around r
- uns (specifics from your doctor or dietitian). Saturday run paused.
+SUMMARY:Run 4 mi: Sub-threshold
+DESCRIPTION:SubT: 1.5 WU\, 3x4' sub-threshold\, 1' jog\, 1 CD\nPurpose of w
+ eek: Slow ramp with one light sub-threshold session (3x4'): reintroduce co
+ ntrolled quality while everything else stays easy and mileage holds near 1
+ 6.\nPhase: Recover from the NYC Marathon DNF and\, on your doctor's advice
+ \, ramp up very slowly through December: mostly easy running with one spee
+ d session a week\, long runs capped at 9 miles until 2027. Reassess in Jan
+ uary.\nPace: Reps 8:10-8:30/mi\, HR <=160\; WU/CD easy 9:40-10:30\nShoe: C
+ lifton Pro\nWeek 2\, 1 Recovery & slow ramp\, 16 mi total\nNote: Slow ramp
+  with one light sub-threshold session (Tue): heart rate 160 or lower\, fin
+ ish able to do more. Everything else easy. Fuel well around runs (specific
+ s from your doctor or dietitian). Saturday run paused.
 END:VEVENT
 BEGIN:VEVENT
 UID:w2-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 TRANSP:TRANSPARENT
 SUMMARY:Run 3 mi: Easy run
-DESCRIPTION:Easy 3 mi\nPurpose of week: Slow ramp (doctor's guidance): easy
-  running only\, mileage held near 15. The goal is consistency and recovery
- \, not fitness gains.\nPhase: Recover from the NYC Marathon DNF and\, on y
- our doctor's advice\, ramp up very slowly through December: easy running o
- nly\, mileage held near 15-17 a week\, no quality sessions. Reassess in Ja
- nuary.\nPace: Easy 9:40-10:30/mi\, HR <=150\nShoe: Clifton Pro\nWeek 2\, 1
-  Recovery & slow ramp\, 15 mi total\nNote: Slow ramp per your doctor: easy
-  runs only\, mileage held near 15. No quality sessions. Fuel well around r
- uns (specifics from your doctor or dietitian). Saturday run paused.
+DESCRIPTION:Easy 3 mi\nPurpose of week: Slow ramp with one light sub-thresh
+ old session (3x4'): reintroduce controlled quality while everything else s
+ tays easy and mileage holds near 16.\nPhase: Recover from the NYC Marathon
+  DNF and\, on your doctor's advice\, ramp up very slowly through December:
+  mostly easy running with one speed session a week\, long runs capped at 9
+  miles until 2027. Reassess in January.\nPace: Easy 9:40-10:30/mi\, HR <=1
+ 50\nShoe: Clifton Pro\nWeek 2\, 1 Recovery & slow ramp\, 16 mi total\nNote
+ : Slow ramp with one light sub-threshold session (Tue): heart rate 160 or 
+ lower\, finish able to do more. Everything else easy. Fuel well around run
+ s (specifics from your doctor or dietitian). Saturday run paused.
 END:VEVENT
 BEGIN:VEVENT
 UID:w2-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 TRANSP:TRANSPARENT
 SUMMARY:Run 4 mi: Easy run
-DESCRIPTION:Easy 4 mi\nPurpose of week: Slow ramp (doctor's guidance): easy
-  running only\, mileage held near 15. The goal is consistency and recovery
- \, not fitness gains.\nPhase: Recover from the NYC Marathon DNF and\, on y
- our doctor's advice\, ramp up very slowly through December: easy running o
- nly\, mileage held near 15-17 a week\, no quality sessions. Reassess in Ja
- nuary.\nPace: Easy 9:40-10:30/mi\, HR <=150\nShoe: Clifton Pro\nWeek 2\, 1
-  Recovery & slow ramp\, 15 mi total\nNote: Slow ramp per your doctor: easy
-  runs only\, mileage held near 15. No quality sessions. Fuel well around r
- uns (specifics from your doctor or dietitian). Saturday run paused.
+DESCRIPTION:Easy 4 mi\nPurpose of week: Slow ramp with one light sub-thresh
+ old session (3x4'): reintroduce controlled quality while everything else s
+ tays easy and mileage holds near 16.\nPhase: Recover from the NYC Marathon
+  DNF and\, on your doctor's advice\, ramp up very slowly through December:
+  mostly easy running with one speed session a week\, long runs capped at 9
+  miles until 2027. Reassess in January.\nPace: Easy 9:40-10:30/mi\, HR <=1
+ 50\nShoe: Clifton Pro\nWeek 2\, 1 Recovery & slow ramp\, 16 mi total\nNote
+ : Slow ramp with one light sub-threshold session (Tue): heart rate 160 or 
+ lower\, finish able to do more. Everything else easy. Fuel well around run
+ s (specifics from your doctor or dietitian). Saturday run paused.
 END:VEVENT
 BEGIN:VEVENT
 UID:w2-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261128
 DTEND;VALUE=DATE:20261129
 TRANSP:TRANSPARENT
@@ -200,24 +206,25 @@ DESCRIPTION:Week 2
 END:VEVENT
 BEGIN:VEVENT
 UID:w2-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261129
 DTEND;VALUE=DATE:20261130
 TRANSP:TRANSPARENT
 SUMMARY:Run 5 mi: Easy run
-DESCRIPTION:Easy 5 mi\nPurpose of week: Slow ramp (doctor's guidance): easy
-  running only\, mileage held near 15. The goal is consistency and recovery
- \, not fitness gains.\nPhase: Recover from the NYC Marathon DNF and\, on y
- our doctor's advice\, ramp up very slowly through December: easy running o
- nly\, mileage held near 15-17 a week\, no quality sessions. Reassess in Ja
- nuary.\nPace: Easy 9:40-10:30/mi\, HR <=150\nShoe: Clifton Pro\nWeek 2\, 1
-  Recovery & slow ramp\, 15 mi total\nNote: Slow ramp per your doctor: easy
-  runs only\, mileage held near 15. No quality sessions. Fuel well around r
- uns (specifics from your doctor or dietitian). Saturday run paused.
+DESCRIPTION:Easy 5 mi\nPurpose of week: Slow ramp with one light sub-thresh
+ old session (3x4'): reintroduce controlled quality while everything else s
+ tays easy and mileage holds near 16.\nPhase: Recover from the NYC Marathon
+  DNF and\, on your doctor's advice\, ramp up very slowly through December:
+  mostly easy running with one speed session a week\, long runs capped at 9
+  miles until 2027. Reassess in January.\nPace: Easy 9:40-10:30/mi\, HR <=1
+ 50\nShoe: Clifton Pro\nWeek 2\, 1 Recovery & slow ramp\, 16 mi total\nNote
+ : Slow ramp with one light sub-threshold session (Tue): heart rate 160 or 
+ lower\, finish able to do more. Everything else easy. Fuel well around run
+ s (specifics from your doctor or dietitian). Saturday run paused.
 END:VEVENT
 BEGIN:VEVENT
 UID:w3-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 TRANSP:TRANSPARENT
@@ -226,7 +233,7 @@ DESCRIPTION:Week 3. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w3-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261205
 TRANSP:TRANSPARENT
@@ -235,7 +242,7 @@ DESCRIPTION:Week 3. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w3-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 TRANSP:TRANSPARENT
@@ -244,55 +251,62 @@ DESCRIPTION:Week 3. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w3-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 TRANSP:TRANSPARENT
-SUMMARY:Run 3 mi: Easy run
-DESCRIPTION:Easy 3 mi\nPurpose of week: Slow ramp: add about a mile\, all e
- asy. Saturday stays strength only\; skip a run if you feel depleted.\nPhas
- e: Recover from the NYC Marathon DNF and\, on your doctor's advice\, ramp 
- up very slowly through December: easy running only\, mileage held near 15-
- 17 a week\, no quality sessions. Reassess in January.\nPace: Easy 9:40-10:
- 30/mi\, HR <=150\nShoe: Clifton Pro\nWeek 3\, 1 Recovery & slow ramp\, 16 
- mi total\nNote: Slow ramp: add about a mile\, all easy (heart rate 150 or 
- lower). Skip a run if you feel depleted. Saturday run paused.
+SUMMARY:Run 4.5 mi: Sub-threshold
+DESCRIPTION:SubT: 1.5 WU\, 4x4' sub-threshold\, 1' jog\, 1 CD\nPurpose of w
+ eek: Slow ramp: sub-threshold grows to 4x4' and optional hill sprints add 
+ power with very little fatigue. Saturday stays strength only\; skip a run 
+ if you feel depleted.\nPhase: Recover from the NYC Marathon DNF and\, on y
+ our doctor's advice\, ramp up very slowly through December: mostly easy ru
+ nning with one speed session a week\, long runs capped at 9 miles until 20
+ 27. Reassess in January.\nPace: Reps 8:10-8:30/mi\, HR <=160\; WU/CD easy 
+ 9:40-10:30\nShoe: Clifton Pro\nWeek 3\, 1 Recovery & slow ramp\, 17.5 mi t
+ otal\nNote: Slow ramp: sub-threshold 4x4' Tue\; optional hill sprints Thu 
+ only if foot and legs feel fine. Everything else easy. Saturday run paused
+ .
 END:VEVENT
 BEGIN:VEVENT
 UID:w3-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20261203
 TRANSP:TRANSPARENT
 SUMMARY:Run 3.5 mi: Easy run
-DESCRIPTION:Easy 3.5 mi\nPurpose of week: Slow ramp: add about a mile\, all
-  easy. Saturday stays strength only\; skip a run if you feel depleted.\nPh
- ase: Recover from the NYC Marathon DNF and\, on your doctor's advice\, ram
- p up very slowly through December: easy running only\, mileage held near 1
- 5-17 a week\, no quality sessions. Reassess in January.\nPace: Easy 9:40-1
- 0:30/mi\, HR <=150\nShoe: Clifton Pro\nWeek 3\, 1 Recovery & slow ramp\, 1
- 6 mi total\nNote: Slow ramp: add about a mile\, all easy (heart rate 150 o
- r lower). Skip a run if you feel depleted. Saturday run paused.
+DESCRIPTION:Easy 3.5 mi\nPurpose of week: Slow ramp: sub-threshold grows to
+  4x4' and optional hill sprints add power with very little fatigue. Saturd
+ ay stays strength only\; skip a run if you feel depleted.\nPhase: Recover 
+ from the NYC Marathon DNF and\, on your doctor's advice\, ramp up very slo
+ wly through December: mostly easy running with one speed session a week\, 
+ long runs capped at 9 miles until 2027. Reassess in January.\nPace: Easy 9
+ :40-10:30/mi\, HR <=150\nShoe: Clifton Pro\nWeek 3\, 1 Recovery & slow ram
+ p\, 17.5 mi total\nNote: Slow ramp: sub-threshold 4x4' Tue\; optional hill
+  sprints Thu only if foot and legs feel fine. Everything else easy. Saturd
+ ay run paused.
 END:VEVENT
 BEGIN:VEVENT
 UID:w3-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261203
 DTEND;VALUE=DATE:20261204
 TRANSP:TRANSPARENT
-SUMMARY:Run 4 mi: Easy run
-DESCRIPTION:Easy 4 mi\nPurpose of week: Slow ramp: add about a mile\, all e
- asy. Saturday stays strength only\; skip a run if you feel depleted.\nPhas
- e: Recover from the NYC Marathon DNF and\, on your doctor's advice\, ramp 
- up very slowly through December: easy running only\, mileage held near 15-
- 17 a week\, no quality sessions. Reassess in January.\nPace: Easy 9:40-10:
- 30/mi\, HR <=150\nShoe: Clifton Pro\nWeek 3\, 1 Recovery & slow ramp\, 16 
- mi total\nNote: Slow ramp: add about a mile\, all easy (heart rate 150 or 
- lower). Skip a run if you feel depleted. Saturday run paused.
+SUMMARY:Run 4 mi: Easy run + strides
+DESCRIPTION:Easy 4 mi + 4x20s strides + 4x10s hill sprints (optional)\nPurp
+ ose of week: Slow ramp: sub-threshold grows to 4x4' and optional hill spri
+ nts add power with very little fatigue. Saturday stays strength only\; ski
+ p a run if you feel depleted.\nPhase: Recover from the NYC Marathon DNF an
+ d\, on your doctor's advice\, ramp up very slowly through December: mostly
+  easy running with one speed session a week\, long runs capped at 9 miles 
+ until 2027. Reassess in January.\nPace: Easy 9:40-10:30\; strides ~7:20 (2
+ 0s)\nShoe: Clifton Pro\nWeek 3\, 1 Recovery & slow ramp\, 17.5 mi total\nN
+ ote: Slow ramp: sub-threshold 4x4' Tue\; optional hill sprints Thu only if
+  foot and legs feel fine. Everything else easy. Saturday run paused.
 END:VEVENT
 BEGIN:VEVENT
 UID:w3-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 TRANSP:TRANSPARENT
@@ -301,23 +315,25 @@ DESCRIPTION:Week 3
 END:VEVENT
 BEGIN:VEVENT
 UID:w3-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261206
 DTEND;VALUE=DATE:20261207
 TRANSP:TRANSPARENT
 SUMMARY:Run 5.5 mi: Easy run
-DESCRIPTION:Easy 5.5 mi\nPurpose of week: Slow ramp: add about a mile\, all
-  easy. Saturday stays strength only\; skip a run if you feel depleted.\nPh
- ase: Recover from the NYC Marathon DNF and\, on your doctor's advice\, ram
- p up very slowly through December: easy running only\, mileage held near 1
- 5-17 a week\, no quality sessions. Reassess in January.\nPace: Easy 9:40-1
- 0:30/mi\, HR <=150\nShoe: Clifton Pro\nWeek 3\, 1 Recovery & slow ramp\, 1
- 6 mi total\nNote: Slow ramp: add about a mile\, all easy (heart rate 150 o
- r lower). Skip a run if you feel depleted. Saturday run paused.
+DESCRIPTION:Easy 5.5 mi\nPurpose of week: Slow ramp: sub-threshold grows to
+  4x4' and optional hill sprints add power with very little fatigue. Saturd
+ ay stays strength only\; skip a run if you feel depleted.\nPhase: Recover 
+ from the NYC Marathon DNF and\, on your doctor's advice\, ramp up very slo
+ wly through December: mostly easy running with one speed session a week\, 
+ long runs capped at 9 miles until 2027. Reassess in January.\nPace: Easy 9
+ :40-10:30/mi\, HR <=150\nShoe: Clifton Pro\nWeek 3\, 1 Recovery & slow ram
+ p\, 17.5 mi total\nNote: Slow ramp: sub-threshold 4x4' Tue\; optional hill
+  sprints Thu only if foot and legs feel fine. Everything else easy. Saturd
+ ay run paused.
 END:VEVENT
 BEGIN:VEVENT
 UID:w4-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
 TRANSP:TRANSPARENT
@@ -326,7 +342,7 @@ DESCRIPTION:Week 4. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w4-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
 TRANSP:TRANSPARENT
@@ -335,7 +351,7 @@ DESCRIPTION:Week 4. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w4-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 TRANSP:TRANSPARENT
@@ -344,55 +360,58 @@ DESCRIPTION:Week 4. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w4-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261208
 DTEND;VALUE=DATE:20261209
 TRANSP:TRANSPARENT
-SUMMARY:Run 3.5 mi: Easy run
-DESCRIPTION:Easy 3.5 mi\nPurpose of week: Slow ramp: first relaxed strides 
- for leg turnover\, total held near 16 miles.\nPhase: Recover from the NYC 
- Marathon DNF and\, on your doctor's advice\, ramp up very slowly through D
- ecember: easy running only\, mileage held near 15-17 a week\, no quality s
- essions. Reassess in January.\nPace: Easy 9:40-10:30/mi\, HR <=150\nShoe: 
- Clifton Pro\nWeek 4\, 1 Recovery & slow ramp\, 16 mi total\nNote: Slow ram
- p: first relaxed strides only (4x20 s). Total held near 16 miles. Saturday
-  run paused.
+SUMMARY:Run 4.5 mi: Sub-threshold
+DESCRIPTION:SubT: 1.5 WU\, 4x4' sub-threshold\, 1' jog\, 1 CD\nPurpose of w
+ eek: Slow ramp: sub-threshold 4x4' plus first relaxed strides\; long runs 
+ stay at 5 miles\, well under your 9-mile cap.\nPhase: Recover from the NYC
+  Marathon DNF and\, on your doctor's advice\, ramp up very slowly through 
+ December: mostly easy running with one speed session a week\, long runs ca
+ pped at 9 miles until 2027. Reassess in January.\nPace: Reps 8:10-8:30/mi\
+ , HR <=160\; WU/CD easy 9:40-10:30\nShoe: Mach 7\nWeek 4\, 1 Recovery & sl
+ ow ramp\, 17 mi total\nNote: Slow ramp: sub-threshold Tue\, first relaxed 
+ strides Thu. Long runs capped at 9 miles until 2027. Saturday run paused.
 END:VEVENT
 BEGIN:VEVENT
 UID:w4-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261209
 DTEND;VALUE=DATE:20261210
 TRANSP:TRANSPARENT
 SUMMARY:Run 3.5 mi: Easy run
-DESCRIPTION:Easy 3.5 mi\nPurpose of week: Slow ramp: first relaxed strides 
- for leg turnover\, total held near 16 miles.\nPhase: Recover from the NYC 
- Marathon DNF and\, on your doctor's advice\, ramp up very slowly through D
- ecember: easy running only\, mileage held near 15-17 a week\, no quality s
- essions. Reassess in January.\nPace: Easy 9:40-10:30/mi\, HR <=150\nShoe: 
- Clifton Pro\nWeek 4\, 1 Recovery & slow ramp\, 16 mi total\nNote: Slow ram
- p: first relaxed strides only (4x20 s). Total held near 16 miles. Saturday
-  run paused.
+DESCRIPTION:Easy 3.5 mi\nPurpose of week: Slow ramp: sub-threshold 4x4' plu
+ s first relaxed strides\; long runs stay at 5 miles\, well under your 9-mi
+ le cap.\nPhase: Recover from the NYC Marathon DNF and\, on your doctor's a
+ dvice\, ramp up very slowly through December: mostly easy running with one
+  speed session a week\, long runs capped at 9 miles until 2027. Reassess i
+ n January.\nPace: Easy 9:40-10:30/mi\, HR <=150\nShoe: Clifton Pro\nWeek 4
+ \, 1 Recovery & slow ramp\, 17 mi total\nNote: Slow ramp: sub-threshold Tu
+ e\, first relaxed strides Thu. Long runs capped at 9 miles until 2027. Sat
+ urday run paused.
 END:VEVENT
 BEGIN:VEVENT
 UID:w4-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261210
 DTEND;VALUE=DATE:20261211
 TRANSP:TRANSPARENT
 SUMMARY:Run 4 mi: Easy run + strides
-DESCRIPTION:Easy 4 mi + 4x20s strides\nPurpose of week: Slow ramp: first re
- laxed strides for leg turnover\, total held near 16 miles.\nPhase: Recover
-  from the NYC Marathon DNF and\, on your doctor's advice\, ramp up very sl
- owly through December: easy running only\, mileage held near 15-17 a week\
- , no quality sessions. Reassess in January.\nPace: Easy 9:40-10:30\; strid
- es ~7:20 (20s)\nShoe: Mach 7\nWeek 4\, 1 Recovery & slow ramp\, 16 mi tota
- l\nNote: Slow ramp: first relaxed strides only (4x20 s). Total held near 1
- 6 miles. Saturday run paused.
+DESCRIPTION:Easy 4 mi + 4x20s strides\nPurpose of week: Slow ramp: sub-thre
+ shold 4x4' plus first relaxed strides\; long runs stay at 5 miles\, well u
+ nder your 9-mile cap.\nPhase: Recover from the NYC Marathon DNF and\, on y
+ our doctor's advice\, ramp up very slowly through December: mostly easy ru
+ nning with one speed session a week\, long runs capped at 9 miles until 20
+ 27. Reassess in January.\nPace: Easy 9:40-10:30\; strides ~7:20 (20s)\nSho
+ e: Mach 7\nWeek 4\, 1 Recovery & slow ramp\, 17 mi total\nNote: Slow ramp:
+  sub-threshold Tue\, first relaxed strides Thu. Long runs capped at 9 mile
+ s until 2027. Saturday run paused.
 END:VEVENT
 BEGIN:VEVENT
 UID:w4-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261212
 DTEND;VALUE=DATE:20261213
 TRANSP:TRANSPARENT
@@ -401,23 +420,24 @@ DESCRIPTION:Week 4
 END:VEVENT
 BEGIN:VEVENT
 UID:w4-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261213
 DTEND;VALUE=DATE:20261214
 TRANSP:TRANSPARENT
 SUMMARY:Run 5 mi: Easy run
-DESCRIPTION:Easy 5 mi\nPurpose of week: Slow ramp: first relaxed strides fo
- r leg turnover\, total held near 16 miles.\nPhase: Recover from the NYC Ma
- rathon DNF and\, on your doctor's advice\, ramp up very slowly through Dec
- ember: easy running only\, mileage held near 15-17 a week\, no quality ses
- sions. Reassess in January.\nPace: Easy 9:40-10:30/mi\, HR <=150\nShoe: Cl
- ifton Pro\nWeek 4\, 1 Recovery & slow ramp\, 16 mi total\nNote: Slow ramp:
-  first relaxed strides only (4x20 s). Total held near 16 miles. Saturday r
- un paused.
+DESCRIPTION:Easy 5 mi\nPurpose of week: Slow ramp: sub-threshold 4x4' plus 
+ first relaxed strides\; long runs stay at 5 miles\, well under your 9-mile
+  cap.\nPhase: Recover from the NYC Marathon DNF and\, on your doctor's adv
+ ice\, ramp up very slowly through December: mostly easy running with one s
+ peed session a week\, long runs capped at 9 miles until 2027. Reassess in 
+ January.\nPace: Easy 9:40-10:30/mi\, HR <=150\nShoe: Clifton Pro\nWeek 4\,
+  1 Recovery & slow ramp\, 17 mi total\nNote: Slow ramp: sub-threshold Tue\
+ , first relaxed strides Thu. Long runs capped at 9 miles until 2027. Satur
+ day run paused.
 END:VEVENT
 BEGIN:VEVENT
 UID:w5-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261214
 DTEND;VALUE=DATE:20261215
 TRANSP:TRANSPARENT
@@ -426,7 +446,7 @@ DESCRIPTION:Week 5. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w5-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 TRANSP:TRANSPARENT
@@ -435,7 +455,7 @@ DESCRIPTION:Week 5. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w5-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 TRANSP:TRANSPARENT
@@ -444,55 +464,56 @@ DESCRIPTION:Week 5. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w5-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 TRANSP:TRANSPARENT
-SUMMARY:Run 3.5 mi: Easy run
-DESCRIPTION:Easy 3.5 mi\nPurpose of week: Slow ramp: small step to 17 miles
- \, all easy\, with the Sunday run edging up to 5.5 miles.\nPhase: Recover 
- from the NYC Marathon DNF and\, on your doctor's advice\, ramp up very slo
- wly through December: easy running only\, mileage held near 15-17 a week\,
-  no quality sessions. Reassess in January.\nPace: Easy 9:40-10:30/mi\, HR 
- <=150\nShoe: Clifton Pro\nWeek 5\, 1 Recovery & slow ramp\, 17 mi total\nN
- ote: Slow ramp: small step to 17 miles\, all easy. Saturday stays strength
-  only.
+SUMMARY:Run 5 mi: Sub-threshold
+DESCRIPTION:SubT: 1.5 WU\, 5x4' sub-threshold\, 1' jog\, 1 CD\nPurpose of w
+ eek: Slow ramp: add reps\, not pace (5x4')\, with a small step up in Sunda
+ y's run.\nPhase: Recover from the NYC Marathon DNF and\, on your doctor's 
+ advice\, ramp up very slowly through December: mostly easy running with on
+ e speed session a week\, long runs capped at 9 miles until 2027. Reassess 
+ in January.\nPace: Reps 8:10-8:30/mi\, HR <=160\; WU/CD easy 9:40-10:30\nS
+ hoe: Endorphin Speed 6\nWeek 5\, 1 Recovery & slow ramp\, 18.5 mi total\nN
+ ote: Slow ramp: add reps\, not pace. Long runs stay under 9 miles until 20
+ 27. Saturday stays strength only.
 END:VEVENT
 BEGIN:VEVENT
 UID:w5-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261216
 DTEND;VALUE=DATE:20261217
 TRANSP:TRANSPARENT
 SUMMARY:Run 3.5 mi: Easy run
-DESCRIPTION:Easy 3.5 mi\nPurpose of week: Slow ramp: small step to 17 miles
- \, all easy\, with the Sunday run edging up to 5.5 miles.\nPhase: Recover 
- from the NYC Marathon DNF and\, on your doctor's advice\, ramp up very slo
- wly through December: easy running only\, mileage held near 15-17 a week\,
-  no quality sessions. Reassess in January.\nPace: Easy 9:40-10:30/mi\, HR 
- <=150\nShoe: Clifton Pro\nWeek 5\, 1 Recovery & slow ramp\, 17 mi total\nN
- ote: Slow ramp: small step to 17 miles\, all easy. Saturday stays strength
-  only.
+DESCRIPTION:Easy 3.5 mi\nPurpose of week: Slow ramp: add reps\, not pace (5
+ x4')\, with a small step up in Sunday's run.\nPhase: Recover from the NYC 
+ Marathon DNF and\, on your doctor's advice\, ramp up very slowly through D
+ ecember: mostly easy running with one speed session a week\, long runs cap
+ ped at 9 miles until 2027. Reassess in January.\nPace: Easy 9:40-10:30/mi\
+ , HR <=150\nShoe: Clifton Pro\nWeek 5\, 1 Recovery & slow ramp\, 18.5 mi t
+ otal\nNote: Slow ramp: add reps\, not pace. Long runs stay under 9 miles u
+ ntil 2027. Saturday stays strength only.
 END:VEVENT
 BEGIN:VEVENT
 UID:w5-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261217
 DTEND;VALUE=DATE:20261218
 TRANSP:TRANSPARENT
 SUMMARY:Run 4.5 mi: Easy run + strides
-DESCRIPTION:Easy 4.5 mi + 4x20s strides\nPurpose of week: Slow ramp: small 
- step to 17 miles\, all easy\, with the Sunday run edging up to 5.5 miles.\
- nPhase: Recover from the NYC Marathon DNF and\, on your doctor's advice\, 
- ramp up very slowly through December: easy running only\, mileage held nea
- r 15-17 a week\, no quality sessions. Reassess in January.\nPace: Easy 9:4
- 0-10:30\; strides ~7:20 (20s)\nShoe: Endorphin Speed 6\nWeek 5\, 1 Recover
- y & slow ramp\, 17 mi total\nNote: Slow ramp: small step to 17 miles\, all
-  easy. Saturday stays strength only.
+DESCRIPTION:Easy 4.5 mi + 4x20s strides\nPurpose of week: Slow ramp: add re
+ ps\, not pace (5x4')\, with a small step up in Sunday's run.\nPhase: Recov
+ er from the NYC Marathon DNF and\, on your doctor's advice\, ramp up very 
+ slowly through December: mostly easy running with one speed session a week
+ \, long runs capped at 9 miles until 2027. Reassess in January.\nPace: Eas
+ y 9:40-10:30\; strides ~7:20 (20s)\nShoe: Endorphin Speed 6\nWeek 5\, 1 Re
+ covery & slow ramp\, 18.5 mi total\nNote: Slow ramp: add reps\, not pace. 
+ Long runs stay under 9 miles until 2027. Saturday stays strength only.
 END:VEVENT
 BEGIN:VEVENT
 UID:w5-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261219
 DTEND;VALUE=DATE:20261220
 TRANSP:TRANSPARENT
@@ -501,23 +522,23 @@ DESCRIPTION:Week 5
 END:VEVENT
 BEGIN:VEVENT
 UID:w5-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261220
 DTEND;VALUE=DATE:20261221
 TRANSP:TRANSPARENT
 SUMMARY:Run 5.5 mi: Easy run
-DESCRIPTION:Easy 5.5 mi\nPurpose of week: Slow ramp: small step to 17 miles
- \, all easy\, with the Sunday run edging up to 5.5 miles.\nPhase: Recover 
- from the NYC Marathon DNF and\, on your doctor's advice\, ramp up very slo
- wly through December: easy running only\, mileage held near 15-17 a week\,
-  no quality sessions. Reassess in January.\nPace: Easy 9:40-10:30/mi\, HR 
- <=150\nShoe: Clifton Pro\nWeek 5\, 1 Recovery & slow ramp\, 17 mi total\nN
- ote: Slow ramp: small step to 17 miles\, all easy. Saturday stays strength
-  only.
+DESCRIPTION:Easy 5.5 mi\nPurpose of week: Slow ramp: add reps\, not pace (5
+ x4')\, with a small step up in Sunday's run.\nPhase: Recover from the NYC 
+ Marathon DNF and\, on your doctor's advice\, ramp up very slowly through D
+ ecember: mostly easy running with one speed session a week\, long runs cap
+ ped at 9 miles until 2027. Reassess in January.\nPace: Easy 9:40-10:30/mi\
+ , HR <=150\nShoe: Clifton Pro\nWeek 5\, 1 Recovery & slow ramp\, 18.5 mi t
+ otal\nNote: Slow ramp: add reps\, not pace. Long runs stay under 9 miles u
+ ntil 2027. Saturday stays strength only.
 END:VEVENT
 BEGIN:VEVENT
 UID:w6-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 TRANSP:TRANSPARENT
@@ -526,7 +547,7 @@ DESCRIPTION:Week 6. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w6-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 TRANSP:TRANSPARENT
@@ -535,7 +556,7 @@ DESCRIPTION:Week 6. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w6-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 TRANSP:TRANSPARENT
@@ -544,53 +565,59 @@ DESCRIPTION:Week 6. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w6-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
 TRANSP:TRANSPARENT
-SUMMARY:Run 3.5 mi: Easy run
-DESCRIPTION:Easy 3.5 mi\nPurpose of week: Holiday week: hold mileage and sh
- orten rather than add. Easy only.\nPhase: Recover from the NYC Marathon DN
- F and\, on your doctor's advice\, ramp up very slowly through December: ea
- sy running only\, mileage held near 15-17 a week\, no quality sessions. Re
- assess in January.\nPace: Easy 9:40-10:30/mi\, HR <=150\nShoe: Clifton Pro
- \nWeek 6\, 1 Recovery & slow ramp\, 16.5 mi total\nNote: Holiday week: hol
- d mileage\, shorten rather than add. Treadmill or traction on ice.
+SUMMARY:Run 7 mi: VO2 intervals
+DESCRIPTION:VO2: 2 WU\, 5x800 m @ 5K effort\, 400 m jog\, 1.5 CD\nPurpose o
+ f week: First VO2 session (5x800) to touch top-end speed once. Holiday wee
+ k: hold the rest of the mileage\, shorten rather than add.\nPhase: Recover
+  from the NYC Marathon DNF and\, on your doctor's advice\, ramp up very sl
+ owly through December: mostly easy running with one speed session a week\,
+  long runs capped at 9 miles until 2027. Reassess in January.\nPace: Reps 
+ ~7:10-7:25/mi\, 400 m jog\; WU/CD easy 9:40-10:30\nShoe: Mach 7\nWeek 6\, 
+ 1 Recovery & slow ramp\, 20 mi total\nNote: First VO2 session (skip if any
+  foot or back flag). Holiday week: shorten rather than add\; treadmill or 
+ traction on ice.
 END:VEVENT
 BEGIN:VEVENT
 UID:w6-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261223
 DTEND;VALUE=DATE:20261224
 TRANSP:TRANSPARENT
 SUMMARY:Run 3.5 mi: Easy run
-DESCRIPTION:Easy 3.5 mi\nPurpose of week: Holiday week: hold mileage and sh
- orten rather than add. Easy only.\nPhase: Recover from the NYC Marathon DN
- F and\, on your doctor's advice\, ramp up very slowly through December: ea
- sy running only\, mileage held near 15-17 a week\, no quality sessions. Re
- assess in January.\nPace: Easy 9:40-10:30/mi\, HR <=150\nShoe: Clifton Pro
- \nWeek 6\, 1 Recovery & slow ramp\, 16.5 mi total\nNote: Holiday week: hol
- d mileage\, shorten rather than add. Treadmill or traction on ice.
+DESCRIPTION:Easy 3.5 mi\nPurpose of week: First VO2 session (5x800) to touc
+ h top-end speed once. Holiday week: hold the rest of the mileage\, shorten
+  rather than add.\nPhase: Recover from the NYC Marathon DNF and\, on your 
+ doctor's advice\, ramp up very slowly through December: mostly easy runnin
+ g with one speed session a week\, long runs capped at 9 miles until 2027. 
+ Reassess in January.\nPace: Easy 9:40-10:30/mi\, HR <=150\nShoe: Clifton P
+ ro\nWeek 6\, 1 Recovery & slow ramp\, 20 mi total\nNote: First VO2 session
+  (skip if any foot or back flag). Holiday week: shorten rather than add\; 
+ treadmill or traction on ice.
 END:VEVENT
 BEGIN:VEVENT
 UID:w6-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20261225
 TRANSP:TRANSPARENT
 SUMMARY:Run 4 mi: Easy run + strides
-DESCRIPTION:Easy 4 mi + 4x20s strides\nPurpose of week: Holiday week: hold 
- mileage and shorten rather than add. Easy only.\nPhase: Recover from the N
- YC Marathon DNF and\, on your doctor's advice\, ramp up very slowly throug
- h December: easy running only\, mileage held near 15-17 a week\, no qualit
- y sessions. Reassess in January.\nPace: Easy 9:40-10:30\; strides ~7:20 (2
- 0s)\nShoe: Mach 7\nWeek 6\, 1 Recovery & slow ramp\, 16.5 mi total\nNote: 
- Holiday week: hold mileage\, shorten rather than add. Treadmill or tractio
- n on ice.
+DESCRIPTION:Easy 4 mi + 4x20s strides\nPurpose of week: First VO2 session (
+ 5x800) to touch top-end speed once. Holiday week: hold the rest of the mil
+ eage\, shorten rather than add.\nPhase: Recover from the NYC Marathon DNF 
+ and\, on your doctor's advice\, ramp up very slowly through December: most
+ ly easy running with one speed session a week\, long runs capped at 9 mile
+ s until 2027. Reassess in January.\nPace: Easy 9:40-10:30\; strides ~7:20 
+ (20s)\nShoe: Mach 7\nWeek 6\, 1 Recovery & slow ramp\, 20 mi total\nNote: 
+ First VO2 session (skip if any foot or back flag). Holiday week: shorten r
+ ather than add\; treadmill or traction on ice.
 END:VEVENT
 BEGIN:VEVENT
 UID:w6-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261226
 DTEND;VALUE=DATE:20261227
 TRANSP:TRANSPARENT
@@ -599,22 +626,24 @@ DESCRIPTION:Week 6
 END:VEVENT
 BEGIN:VEVENT
 UID:w6-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261227
 DTEND;VALUE=DATE:20261228
 TRANSP:TRANSPARENT
 SUMMARY:Run 5.5 mi: Easy run
-DESCRIPTION:Easy 5.5 mi\nPurpose of week: Holiday week: hold mileage and sh
- orten rather than add. Easy only.\nPhase: Recover from the NYC Marathon DN
- F and\, on your doctor's advice\, ramp up very slowly through December: ea
- sy running only\, mileage held near 15-17 a week\, no quality sessions. Re
- assess in January.\nPace: Easy 9:40-10:30/mi\, HR <=150\nShoe: Clifton Pro
- \nWeek 6\, 1 Recovery & slow ramp\, 16.5 mi total\nNote: Holiday week: hol
- d mileage\, shorten rather than add. Treadmill or traction on ice.
+DESCRIPTION:Easy 5.5 mi\nPurpose of week: First VO2 session (5x800) to touc
+ h top-end speed once. Holiday week: hold the rest of the mileage\, shorten
+  rather than add.\nPhase: Recover from the NYC Marathon DNF and\, on your 
+ doctor's advice\, ramp up very slowly through December: mostly easy runnin
+ g with one speed session a week\, long runs capped at 9 miles until 2027. 
+ Reassess in January.\nPace: Easy 9:40-10:30/mi\, HR <=150\nShoe: Clifton P
+ ro\nWeek 6\, 1 Recovery & slow ramp\, 20 mi total\nNote: First VO2 session
+  (skip if any foot or back flag). Holiday week: shorten rather than add\; 
+ treadmill or traction on ice.
 END:VEVENT
 BEGIN:VEVENT
 UID:w7-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261228
 DTEND;VALUE=DATE:20261229
 TRANSP:TRANSPARENT
@@ -623,7 +652,7 @@ DESCRIPTION:Week 7. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w7-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 TRANSP:TRANSPARENT
@@ -632,7 +661,7 @@ DESCRIPTION:Week 7. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w7-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 TRANSP:TRANSPARENT
@@ -641,52 +670,56 @@ DESCRIPTION:Week 7. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w7-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261229
 DTEND;VALUE=DATE:20261230
 TRANSP:TRANSPARENT
-SUMMARY:Run 3 mi: Easy run
-DESCRIPTION:Easy 3 mi\nPurpose of week: Hold week: step back slightly befor
- e your January check-in with your doctor.\nPhase: Recover from the NYC Mar
- athon DNF and\, on your doctor's advice\, ramp up very slowly through Dece
- mber: easy running only\, mileage held near 15-17 a week\, no quality sess
- ions. Reassess in January.\nPace: Easy 9:40-10:30/mi\, HR <=150\nShoe: Sky
- ward X 2\nWeek 7\, 1 Recovery & slow ramp\, 15.5 mi total\nNote: Hold week
- : step back slightly before your January check-in.
+SUMMARY:Run 5 mi: Sub-threshold
+DESCRIPTION:SubT: 1.5 WU\, 4x5' sub-threshold\, 1' jog\, 1 CD\nPurpose of w
+ eek: Hold week: sub-threshold stays short and everything else easy before 
+ your January check-in.\nPhase: Recover from the NYC Marathon DNF and\, on 
+ your doctor's advice\, ramp up very slowly through December: mostly easy r
+ unning with one speed session a week\, long runs capped at 9 miles until 2
+ 027. Reassess in January.\nPace: Reps 8:10-8:30/mi\, HR <=160\; WU/CD easy
+  9:40-10:30\nShoe: Endorphin Speed 6\nWeek 7\, 1 Recovery & slow ramp\, 17
+ .5 mi total\nNote: Hold week: sub-threshold stays short\, everything else 
+ easy\, before your January check-in.
 END:VEVENT
 BEGIN:VEVENT
 UID:w7-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 TRANSP:TRANSPARENT
 SUMMARY:Run 3.5 mi: Easy run
-DESCRIPTION:Easy 3.5 mi\nPurpose of week: Hold week: step back slightly bef
- ore your January check-in with your doctor.\nPhase: Recover from the NYC M
- arathon DNF and\, on your doctor's advice\, ramp up very slowly through De
- cember: easy running only\, mileage held near 15-17 a week\, no quality se
- ssions. Reassess in January.\nPace: Easy 9:40-10:30/mi\, HR <=150\nShoe: S
- kyward X 2\nWeek 7\, 1 Recovery & slow ramp\, 15.5 mi total\nNote: Hold we
- ek: step back slightly before your January check-in.
+DESCRIPTION:Easy 3.5 mi\nPurpose of week: Hold week: sub-threshold stays sh
+ ort and everything else easy before your January check-in.\nPhase: Recover
+  from the NYC Marathon DNF and\, on your doctor's advice\, ramp up very sl
+ owly through December: mostly easy running with one speed session a week\,
+  long runs capped at 9 miles until 2027. Reassess in January.\nPace: Easy 
+ 9:40-10:30/mi\, HR <=150\nShoe: Skyward X 2\nWeek 7\, 1 Recovery & slow ra
+ mp\, 17.5 mi total\nNote: Hold week: sub-threshold stays short\, everythin
+ g else easy\, before your January check-in.
 END:VEVENT
 BEGIN:VEVENT
 UID:w7-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 TRANSP:TRANSPARENT
 SUMMARY:Run 4 mi: Easy run
-DESCRIPTION:Easy 4 mi\nPurpose of week: Hold week: step back slightly befor
- e your January check-in with your doctor.\nPhase: Recover from the NYC Mar
- athon DNF and\, on your doctor's advice\, ramp up very slowly through Dece
- mber: easy running only\, mileage held near 15-17 a week\, no quality sess
- ions. Reassess in January.\nPace: Easy 9:40-10:30/mi\, HR <=150\nShoe: Sky
- ward X 2\nWeek 7\, 1 Recovery & slow ramp\, 15.5 mi total\nNote: Hold week
- : step back slightly before your January check-in.
+DESCRIPTION:Easy 4 mi\nPurpose of week: Hold week: sub-threshold stays shor
+ t and everything else easy before your January check-in.\nPhase: Recover f
+ rom the NYC Marathon DNF and\, on your doctor's advice\, ramp up very slow
+ ly through December: mostly easy running with one speed session a week\, l
+ ong runs capped at 9 miles until 2027. Reassess in January.\nPace: Easy 9:
+ 40-10:30/mi\, HR <=150\nShoe: Skyward X 2\nWeek 7\, 1 Recovery & slow ramp
+ \, 17.5 mi total\nNote: Hold week: sub-threshold stays short\, everything 
+ else easy\, before your January check-in.
 END:VEVENT
 BEGIN:VEVENT
 UID:w7-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 TRANSP:TRANSPARENT
@@ -695,22 +728,23 @@ DESCRIPTION:Week 7
 END:VEVENT
 BEGIN:VEVENT
 UID:w7-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270103
 DTEND;VALUE=DATE:20270104
 TRANSP:TRANSPARENT
 SUMMARY:Run 5 mi: Easy run
-DESCRIPTION:Easy 5 mi\nPurpose of week: Hold week: step back slightly befor
- e your January check-in with your doctor.\nPhase: Recover from the NYC Mar
- athon DNF and\, on your doctor's advice\, ramp up very slowly through Dece
- mber: easy running only\, mileage held near 15-17 a week\, no quality sess
- ions. Reassess in January.\nPace: Easy 9:40-10:30/mi\, HR <=150\nShoe: Sky
- ward X 2\nWeek 7\, 1 Recovery & slow ramp\, 15.5 mi total\nNote: Hold week
- : step back slightly before your January check-in.
+DESCRIPTION:Easy 5 mi\nPurpose of week: Hold week: sub-threshold stays shor
+ t and everything else easy before your January check-in.\nPhase: Recover f
+ rom the NYC Marathon DNF and\, on your doctor's advice\, ramp up very slow
+ ly through December: mostly easy running with one speed session a week\, l
+ ong runs capped at 9 miles until 2027. Reassess in January.\nPace: Easy 9:
+ 40-10:30/mi\, HR <=150\nShoe: Skyward X 2\nWeek 7\, 1 Recovery & slow ramp
+ \, 17.5 mi total\nNote: Hold week: sub-threshold stays short\, everything 
+ else easy\, before your January check-in.
 END:VEVENT
 BEGIN:VEVENT
 UID:w8-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270104
 DTEND;VALUE=DATE:20270105
 TRANSP:TRANSPARENT
@@ -719,7 +753,7 @@ DESCRIPTION:Week 8. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w8-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270108
 DTEND;VALUE=DATE:20270109
 TRANSP:TRANSPARENT
@@ -728,7 +762,7 @@ DESCRIPTION:Week 8. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w8-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 TRANSP:TRANSPARENT
@@ -737,7 +771,7 @@ DESCRIPTION:Week 8. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w8-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270105
 DTEND;VALUE=DATE:20270106
 TRANSP:TRANSPARENT
@@ -755,7 +789,7 @@ DESCRIPTION:SubT: 1.5 WU\, 6x5' sub-threshold\, 1' jog\, 1 CD\nPurpose of w
 END:VEVENT
 BEGIN:VEVENT
 UID:w8-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 TRANSP:TRANSPARENT
@@ -772,7 +806,7 @@ DESCRIPTION:Easy 4 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w8-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270107
 DTEND;VALUE=DATE:20270108
 TRANSP:TRANSPARENT
@@ -790,7 +824,7 @@ DESCRIPTION:SubT: 1.5 WU\, 4x4' sub-threshold\, 1' jog\, 1 CD\nPurpose of w
 END:VEVENT
 BEGIN:VEVENT
 UID:w8-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270109
 DTEND;VALUE=DATE:20270110
 TRANSP:TRANSPARENT
@@ -807,7 +841,7 @@ DESCRIPTION:Easy 3 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w8-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270110
 DTEND;VALUE=DATE:20270111
 TRANSP:TRANSPARENT
@@ -824,7 +858,7 @@ DESCRIPTION:Long run 11 mi\nPurpose of week: Provisional until your January
 END:VEVENT
 BEGIN:VEVENT
 UID:w9-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270111
 DTEND;VALUE=DATE:20270112
 TRANSP:TRANSPARENT
@@ -833,7 +867,7 @@ DESCRIPTION:Week 9. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w9-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 TRANSP:TRANSPARENT
@@ -842,7 +876,7 @@ DESCRIPTION:Week 9. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w9-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 TRANSP:TRANSPARENT
@@ -851,7 +885,7 @@ DESCRIPTION:Week 9. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w9-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270112
 DTEND;VALUE=DATE:20270113
 TRANSP:TRANSPARENT
@@ -869,7 +903,7 @@ DESCRIPTION:SubT: 1.5 WU\, 4x8' sub-threshold\, 1' jog\, 1 CD\nPurpose of w
 END:VEVENT
 BEGIN:VEVENT
 UID:w9-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270113
 DTEND;VALUE=DATE:20270114
 TRANSP:TRANSPARENT
@@ -886,7 +920,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w9-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
 TRANSP:TRANSPARENT
@@ -904,7 +938,7 @@ DESCRIPTION:SubT: 1.5 WU\, 5x4' sub-threshold\, 1' jog\, 1 CD\nPurpose of w
 END:VEVENT
 BEGIN:VEVENT
 UID:w9-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270116
 DTEND;VALUE=DATE:20270117
 TRANSP:TRANSPARENT
@@ -921,7 +955,7 @@ DESCRIPTION:Easy 4 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w9-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270117
 DTEND;VALUE=DATE:20270118
 TRANSP:TRANSPARENT
@@ -938,7 +972,7 @@ DESCRIPTION:Long run 12 mi\nPurpose of week: Provisional until your January
 END:VEVENT
 BEGIN:VEVENT
 UID:w10-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270118
 DTEND;VALUE=DATE:20270119
 TRANSP:TRANSPARENT
@@ -947,7 +981,7 @@ DESCRIPTION:Week 10. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w10-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 TRANSP:TRANSPARENT
@@ -956,7 +990,7 @@ DESCRIPTION:Week 10. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w10-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 TRANSP:TRANSPARENT
@@ -965,7 +999,7 @@ DESCRIPTION:Week 10. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w10-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
 TRANSP:TRANSPARENT
@@ -983,7 +1017,7 @@ DESCRIPTION:SubT: 1.5 WU\, 5x6' sub-threshold\, 1' jog\, 1 CD\nPurpose of w
 END:VEVENT
 BEGIN:VEVENT
 UID:w10-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 TRANSP:TRANSPARENT
@@ -1001,7 +1035,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w10-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270121
 DTEND;VALUE=DATE:20270122
 TRANSP:TRANSPARENT
@@ -1019,7 +1053,7 @@ DESCRIPTION:SubT: 1.5 WU\, 6x4' sub-threshold\, 1' jog\, 1 CD\nPurpose of w
 END:VEVENT
 BEGIN:VEVENT
 UID:w10-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270123
 DTEND;VALUE=DATE:20270124
 TRANSP:TRANSPARENT
@@ -1037,7 +1071,7 @@ DESCRIPTION:Easy 4 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w10-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270124
 DTEND;VALUE=DATE:20270125
 TRANSP:TRANSPARENT
@@ -1055,7 +1089,7 @@ DESCRIPTION:Long run 12 mi\, last 2 mi GA pace\nPurpose of week: Provisiona
 END:VEVENT
 BEGIN:VEVENT
 UID:w11-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270125
 DTEND;VALUE=DATE:20270126
 TRANSP:TRANSPARENT
@@ -1064,7 +1098,7 @@ DESCRIPTION:Week 11. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w11-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270129
 DTEND;VALUE=DATE:20270130
 TRANSP:TRANSPARENT
@@ -1073,7 +1107,7 @@ DESCRIPTION:Week 11. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w11-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 TRANSP:TRANSPARENT
@@ -1082,7 +1116,7 @@ DESCRIPTION:Week 11. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w11-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270126
 DTEND;VALUE=DATE:20270127
 TRANSP:TRANSPARENT
@@ -1099,7 +1133,7 @@ DESCRIPTION:SubT: 1.5 WU\, 4x5' sub-threshold\, 1' jog\, 1 CD\nPurpose of w
 END:VEVENT
 BEGIN:VEVENT
 UID:w11-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270127
 DTEND;VALUE=DATE:20270128
 TRANSP:TRANSPARENT
@@ -1115,7 +1149,7 @@ DESCRIPTION:Easy 4 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w11-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270128
 DTEND;VALUE=DATE:20270129
 TRANSP:TRANSPARENT
@@ -1132,7 +1166,7 @@ DESCRIPTION:Easy 5 mi + 4x20s strides\nPurpose of week: Provisional until y
 END:VEVENT
 BEGIN:VEVENT
 UID:w11-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 TRANSP:TRANSPARENT
@@ -1148,7 +1182,7 @@ DESCRIPTION:Easy 3 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w11-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 TRANSP:TRANSPARENT
@@ -1164,7 +1198,7 @@ DESCRIPTION:Long run 10 mi\nPurpose of week: Provisional until your January
 END:VEVENT
 BEGIN:VEVENT
 UID:w12-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270201
 DTEND;VALUE=DATE:20270202
 TRANSP:TRANSPARENT
@@ -1173,7 +1207,7 @@ DESCRIPTION:Week 12. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w12-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270205
 DTEND;VALUE=DATE:20270206
 TRANSP:TRANSPARENT
@@ -1182,7 +1216,7 @@ DESCRIPTION:Week 12. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w12-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 TRANSP:TRANSPARENT
@@ -1191,7 +1225,7 @@ DESCRIPTION:Week 12. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w12-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
 TRANSP:TRANSPARENT
@@ -1208,7 +1242,7 @@ DESCRIPTION:LT: 2 WU\, 20' @ threshold\, 1.5 CD\nPurpose of week: Provision
 END:VEVENT
 BEGIN:VEVENT
 UID:w12-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270203
 DTEND;VALUE=DATE:20270204
 TRANSP:TRANSPARENT
@@ -1224,7 +1258,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w12-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
 TRANSP:TRANSPARENT
@@ -1241,7 +1275,7 @@ DESCRIPTION:VO2: 2 WU\, 5x800 m @ 5K effort\, 400 m jog\, 1.5 CD\nPurpose o
 END:VEVENT
 BEGIN:VEVENT
 UID:w12-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270206
 DTEND;VALUE=DATE:20270207
 TRANSP:TRANSPARENT
@@ -1257,7 +1291,7 @@ DESCRIPTION:Easy 4 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w12-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270207
 DTEND;VALUE=DATE:20270208
 TRANSP:TRANSPARENT
@@ -1273,7 +1307,7 @@ DESCRIPTION:Long run 12 mi\nPurpose of week: Provisional until your January
 END:VEVENT
 BEGIN:VEVENT
 UID:w13-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270208
 DTEND;VALUE=DATE:20270209
 TRANSP:TRANSPARENT
@@ -1282,7 +1316,7 @@ DESCRIPTION:Week 13. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w13-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270212
 DTEND;VALUE=DATE:20270213
 TRANSP:TRANSPARENT
@@ -1291,7 +1325,7 @@ DESCRIPTION:Week 13. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w13-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 TRANSP:TRANSPARENT
@@ -1300,7 +1334,7 @@ DESCRIPTION:Week 13. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w13-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270209
 DTEND;VALUE=DATE:20270210
 TRANSP:TRANSPARENT
@@ -1317,7 +1351,7 @@ DESCRIPTION:SubT: 1.5 WU\, 5x6' sub-threshold\, 1' jog\, 1 CD\nPurpose of w
 END:VEVENT
 BEGIN:VEVENT
 UID:w13-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
 TRANSP:TRANSPARENT
@@ -1333,7 +1367,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w13-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
 TRANSP:TRANSPARENT
@@ -1349,7 +1383,7 @@ DESCRIPTION:Medium-long 8 mi\, steady\nPurpose of week: Provisional until y
 END:VEVENT
 BEGIN:VEVENT
 UID:w13-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270213
 DTEND;VALUE=DATE:20270214
 TRANSP:TRANSPARENT
@@ -1365,7 +1399,7 @@ DESCRIPTION:Easy 4 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w13-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270214
 DTEND;VALUE=DATE:20270215
 TRANSP:TRANSPARENT
@@ -1381,7 +1415,7 @@ DESCRIPTION:Long run 13 mi\, last 3 mi @ HMP 8:38\nPurpose of week: Provisi
 END:VEVENT
 BEGIN:VEVENT
 UID:w14-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270216
 TRANSP:TRANSPARENT
@@ -1390,7 +1424,7 @@ DESCRIPTION:Week 14. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w14-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270219
 DTEND;VALUE=DATE:20270220
 TRANSP:TRANSPARENT
@@ -1399,7 +1433,7 @@ DESCRIPTION:Week 14. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w14-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 TRANSP:TRANSPARENT
@@ -1408,7 +1442,7 @@ DESCRIPTION:Week 14. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w14-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270216
 DTEND;VALUE=DATE:20270217
 TRANSP:TRANSPARENT
@@ -1424,7 +1458,7 @@ DESCRIPTION:LT: 2 WU\, 2x12' @ threshold\, 3' jog\, 1.5 CD\nPurpose of week
 END:VEVENT
 BEGIN:VEVENT
 UID:w14-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270217
 DTEND;VALUE=DATE:20270218
 TRANSP:TRANSPARENT
@@ -1440,7 +1474,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w14-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270218
 DTEND;VALUE=DATE:20270219
 TRANSP:TRANSPARENT
@@ -1456,7 +1490,7 @@ DESCRIPTION:VO2: 2 WU\, 5x1000 m @ 5K effort\, 400 m jog\, 1.5 CD\nPurpose
 END:VEVENT
 BEGIN:VEVENT
 UID:w14-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270220
 DTEND;VALUE=DATE:20270221
 TRANSP:TRANSPARENT
@@ -1472,7 +1506,7 @@ DESCRIPTION:Easy 4 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w14-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270221
 DTEND;VALUE=DATE:20270222
 TRANSP:TRANSPARENT
@@ -1488,7 +1522,7 @@ DESCRIPTION:Long run 14 mi\, last 4 mi @ HMP 8:38\nPurpose of week: Provisi
 END:VEVENT
 BEGIN:VEVENT
 UID:w15-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270222
 DTEND;VALUE=DATE:20270223
 TRANSP:TRANSPARENT
@@ -1497,7 +1531,7 @@ DESCRIPTION:Week 15. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w15-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
 TRANSP:TRANSPARENT
@@ -1506,7 +1540,7 @@ DESCRIPTION:Week 15. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w15-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
 TRANSP:TRANSPARENT
@@ -1515,7 +1549,7 @@ DESCRIPTION:Week 15. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w15-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270223
 DTEND;VALUE=DATE:20270224
 TRANSP:TRANSPARENT
@@ -1532,7 +1566,7 @@ DESCRIPTION:SubT: 1.5 WU\, 4x6' sub-threshold\, 1' jog\, 1 CD\nPurpose of w
 END:VEVENT
 BEGIN:VEVENT
 UID:w15-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270224
 DTEND;VALUE=DATE:20270225
 TRANSP:TRANSPARENT
@@ -1548,7 +1582,7 @@ DESCRIPTION:Easy 4 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w15-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270225
 DTEND;VALUE=DATE:20270226
 TRANSP:TRANSPARENT
@@ -1564,7 +1598,7 @@ DESCRIPTION:Easy 5 mi + 4x20s strides\nPurpose of week: Provisional until y
 END:VEVENT
 BEGIN:VEVENT
 UID:w15-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
 TRANSP:TRANSPARENT
@@ -1580,7 +1614,7 @@ DESCRIPTION:Easy 3 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w15-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270228
 DTEND;VALUE=DATE:20270301
 TRANSP:TRANSPARENT
@@ -1596,7 +1630,7 @@ DESCRIPTION:Long run 10 mi\, or optional 10K tune-up race/solo TT\nPurpose
 END:VEVENT
 BEGIN:VEVENT
 UID:w16-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
 TRANSP:TRANSPARENT
@@ -1605,7 +1639,7 @@ DESCRIPTION:Week 16. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w16-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
 TRANSP:TRANSPARENT
@@ -1614,7 +1648,7 @@ DESCRIPTION:Week 16. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w16-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
 TRANSP:TRANSPARENT
@@ -1623,7 +1657,7 @@ DESCRIPTION:Week 16. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w16-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270302
 DTEND;VALUE=DATE:20270303
 TRANSP:TRANSPARENT
@@ -1639,7 +1673,7 @@ DESCRIPTION:HMP: 1.5 WU\, 2x2 mi @ HMP 8:38\, 0.5 mi jog\, 1.5 CD\nPurpose
 END:VEVENT
 BEGIN:VEVENT
 UID:w16-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270303
 DTEND;VALUE=DATE:20270304
 TRANSP:TRANSPARENT
@@ -1655,7 +1689,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w16-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
 TRANSP:TRANSPARENT
@@ -1671,7 +1705,7 @@ DESCRIPTION:SubT: 1.5 WU\, 4x6' sub-threshold\, 1' jog\, 1 CD\nPurpose of w
 END:VEVENT
 BEGIN:VEVENT
 UID:w16-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
 TRANSP:TRANSPARENT
@@ -1687,7 +1721,7 @@ DESCRIPTION:Easy 3 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w16-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270307
 DTEND;VALUE=DATE:20270308
 TRANSP:TRANSPARENT
@@ -1703,7 +1737,7 @@ DESCRIPTION:Long run 12 mi\, last 3 mi @ HMP 8:38\nPurpose of week: Provisi
 END:VEVENT
 BEGIN:VEVENT
 UID:w17-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270308
 DTEND;VALUE=DATE:20270309
 TRANSP:TRANSPARENT
@@ -1712,7 +1746,7 @@ DESCRIPTION:Week 17. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w17-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270312
 DTEND;VALUE=DATE:20270313
 TRANSP:TRANSPARENT
@@ -1721,7 +1755,7 @@ DESCRIPTION:Week 17. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w17-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
 TRANSP:TRANSPARENT
@@ -1730,7 +1764,7 @@ DESCRIPTION:Week 17. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w17-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270309
 DTEND;VALUE=DATE:20270310
 TRANSP:TRANSPARENT
@@ -1745,7 +1779,7 @@ DESCRIPTION:HMP: 1.5 WU\, 3x1 mi @ HMP\, 0.25 mi jog\, 1 CD\nPurpose of wee
 END:VEVENT
 BEGIN:VEVENT
 UID:w17-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270310
 DTEND;VALUE=DATE:20270311
 TRANSP:TRANSPARENT
@@ -1760,7 +1794,7 @@ DESCRIPTION:Easy 4 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w17-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270311
 DTEND;VALUE=DATE:20270312
 TRANSP:TRANSPARENT
@@ -1776,7 +1810,7 @@ DESCRIPTION:SubT: 1.5 WU\, 3x6' sub-threshold\, 1' jog\, 1 CD\nPurpose of w
 END:VEVENT
 BEGIN:VEVENT
 UID:w17-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270313
 DTEND;VALUE=DATE:20270314
 TRANSP:TRANSPARENT
@@ -1791,7 +1825,7 @@ DESCRIPTION:Easy 3 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w17-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270314
 DTEND;VALUE=DATE:20270315
 TRANSP:TRANSPARENT
@@ -1806,7 +1840,7 @@ DESCRIPTION:Easy 8 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w18-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270315
 DTEND;VALUE=DATE:20270316
 TRANSP:TRANSPARENT
@@ -1815,7 +1849,7 @@ DESCRIPTION:Week 18. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w18-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270319
 DTEND;VALUE=DATE:20270320
 TRANSP:TRANSPARENT
@@ -1824,7 +1858,7 @@ DESCRIPTION:Week 18. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w18-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 TRANSP:TRANSPARENT
@@ -1833,7 +1867,7 @@ DESCRIPTION:Week 18. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w18-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270316
 DTEND;VALUE=DATE:20270317
 TRANSP:TRANSPARENT
@@ -1849,7 +1883,7 @@ DESCRIPTION:Sharpener: 1.5 WU\, 3x0.5 mi @ HMP\, 0.25 jog\, 1 CD\nPurpose o
 END:VEVENT
 BEGIN:VEVENT
 UID:w18-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270317
 DTEND;VALUE=DATE:20270318
 TRANSP:TRANSPARENT
@@ -1865,7 +1899,7 @@ DESCRIPTION:Easy 3 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w18-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270318
 DTEND;VALUE=DATE:20270319
 TRANSP:TRANSPARENT
@@ -1881,7 +1915,7 @@ DESCRIPTION:Easy 3 mi + 4x20s strides\nPurpose of week: Provisional until y
 END:VEVENT
 BEGIN:VEVENT
 UID:w18-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 TRANSP:TRANSPARENT
@@ -1897,7 +1931,7 @@ DESCRIPTION:Easy 2 mi + shakeout\nPurpose of week: Provisional until your J
 END:VEVENT
 BEGIN:VEVENT
 UID:w18-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270321
 DTEND;VALUE=DATE:20270322
 TRANSP:TRANSPARENT
@@ -1913,7 +1947,7 @@ DESCRIPTION:RACE: United NYC Half (13.1 mi)\nPurpose of week: Provisional u
 END:VEVENT
 BEGIN:VEVENT
 UID:w19-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270323
 TRANSP:TRANSPARENT
@@ -1922,7 +1956,7 @@ DESCRIPTION:Week 19. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w19-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
 TRANSP:TRANSPARENT
@@ -1931,7 +1965,7 @@ DESCRIPTION:Week 19. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w19-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
 TRANSP:TRANSPARENT
@@ -1940,7 +1974,7 @@ DESCRIPTION:Week 19. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w19-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270323
 DTEND;VALUE=DATE:20270324
 TRANSP:TRANSPARENT
@@ -1949,7 +1983,7 @@ DESCRIPTION:Week 19
 END:VEVENT
 BEGIN:VEVENT
 UID:w19-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270324
 DTEND;VALUE=DATE:20270325
 TRANSP:TRANSPARENT
@@ -1963,7 +1997,7 @@ DESCRIPTION:Easy 3 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w19-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
 TRANSP:TRANSPARENT
@@ -1977,7 +2011,7 @@ DESCRIPTION:Easy 4 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w19-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270327
 DTEND;VALUE=DATE:20270328
 TRANSP:TRANSPARENT
@@ -1991,7 +2025,7 @@ DESCRIPTION:Easy 3 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w19-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 TRANSP:TRANSPARENT
@@ -2005,7 +2039,7 @@ DESCRIPTION:Easy 6 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w20-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270329
 DTEND;VALUE=DATE:20270330
 TRANSP:TRANSPARENT
@@ -2014,7 +2048,7 @@ DESCRIPTION:Week 20. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w20-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270402
 DTEND;VALUE=DATE:20270403
 TRANSP:TRANSPARENT
@@ -2023,7 +2057,7 @@ DESCRIPTION:Week 20. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w20-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
 TRANSP:TRANSPARENT
@@ -2032,7 +2066,7 @@ DESCRIPTION:Week 20. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w20-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270330
 DTEND;VALUE=DATE:20270331
 TRANSP:TRANSPARENT
@@ -2046,7 +2080,7 @@ DESCRIPTION:Easy 4 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w20-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
 TRANSP:TRANSPARENT
@@ -2060,7 +2094,7 @@ DESCRIPTION:Easy 4 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w20-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270401
 DTEND;VALUE=DATE:20270402
 TRANSP:TRANSPARENT
@@ -2074,7 +2108,7 @@ DESCRIPTION:Easy 5 mi + 4x20s strides\nPurpose of week: Provisional until y
 END:VEVENT
 BEGIN:VEVENT
 UID:w20-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270403
 DTEND;VALUE=DATE:20270404
 TRANSP:TRANSPARENT
@@ -2088,7 +2122,7 @@ DESCRIPTION:Easy 3 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w20-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 TRANSP:TRANSPARENT
@@ -2102,7 +2136,7 @@ DESCRIPTION:Easy 8 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w21-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270405
 DTEND;VALUE=DATE:20270406
 TRANSP:TRANSPARENT
@@ -2111,7 +2145,7 @@ DESCRIPTION:Week 21. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w21-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270409
 DTEND;VALUE=DATE:20270410
 TRANSP:TRANSPARENT
@@ -2120,7 +2154,7 @@ DESCRIPTION:Week 21. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w21-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
 TRANSP:TRANSPARENT
@@ -2129,7 +2163,7 @@ DESCRIPTION:Week 21. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w21-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270406
 DTEND;VALUE=DATE:20270407
 TRANSP:TRANSPARENT
@@ -2146,7 +2180,7 @@ DESCRIPTION:Hills: 2 WU\, 8x60s hard uphill (jog down)\, 1.5 CD\nPurpose of
 END:VEVENT
 BEGIN:VEVENT
 UID:w21-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
 TRANSP:TRANSPARENT
@@ -2162,7 +2196,7 @@ DESCRIPTION:Easy 4 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w21-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270408
 DTEND;VALUE=DATE:20270409
 TRANSP:TRANSPARENT
@@ -2179,7 +2213,7 @@ DESCRIPTION:SubT: 1.5 WU\, 5x5' sub-threshold\, 1' jog\, 1 CD\nPurpose of w
 END:VEVENT
 BEGIN:VEVENT
 UID:w21-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270410
 DTEND;VALUE=DATE:20270411
 TRANSP:TRANSPARENT
@@ -2195,7 +2229,7 @@ DESCRIPTION:Easy 3 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w21-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 TRANSP:TRANSPARENT
@@ -2211,7 +2245,7 @@ DESCRIPTION:Long run 11 mi\nPurpose of week: Provisional until your January
 END:VEVENT
 BEGIN:VEVENT
 UID:w22-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270412
 DTEND;VALUE=DATE:20270413
 TRANSP:TRANSPARENT
@@ -2220,7 +2254,7 @@ DESCRIPTION:Week 22. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w22-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270416
 DTEND;VALUE=DATE:20270417
 TRANSP:TRANSPARENT
@@ -2229,7 +2263,7 @@ DESCRIPTION:Week 22. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w22-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 TRANSP:TRANSPARENT
@@ -2238,7 +2272,7 @@ DESCRIPTION:Week 22. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w22-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270414
 TRANSP:TRANSPARENT
@@ -2255,7 +2289,7 @@ DESCRIPTION:Hills: 2 WU\, 10x60s hard uphill (jog down)\, 1.5 CD\nPurpose o
 END:VEVENT
 BEGIN:VEVENT
 UID:w22-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270414
 DTEND;VALUE=DATE:20270415
 TRANSP:TRANSPARENT
@@ -2271,7 +2305,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w22-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 TRANSP:TRANSPARENT
@@ -2288,7 +2322,7 @@ DESCRIPTION:SubT: 1.5 WU\, 6x5' sub-threshold\, 1' jog\, 1 CD\nPurpose of w
 END:VEVENT
 BEGIN:VEVENT
 UID:w22-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270417
 DTEND;VALUE=DATE:20270418
 TRANSP:TRANSPARENT
@@ -2304,7 +2338,7 @@ DESCRIPTION:Easy 4 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w22-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 TRANSP:TRANSPARENT
@@ -2320,7 +2354,7 @@ DESCRIPTION:Long run 12 mi\nPurpose of week: Provisional until your January
 END:VEVENT
 BEGIN:VEVENT
 UID:w23-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270419
 DTEND;VALUE=DATE:20270420
 TRANSP:TRANSPARENT
@@ -2329,7 +2363,7 @@ DESCRIPTION:Week 23. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w23-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270423
 DTEND;VALUE=DATE:20270424
 TRANSP:TRANSPARENT
@@ -2338,7 +2372,7 @@ DESCRIPTION:Week 23. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w23-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
 TRANSP:TRANSPARENT
@@ -2347,7 +2381,7 @@ DESCRIPTION:Week 23. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w23-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270420
 DTEND;VALUE=DATE:20270421
 TRANSP:TRANSPARENT
@@ -2364,7 +2398,7 @@ DESCRIPTION:VO2: 2 WU\, 6x800 m @ 5K effort\, 400 m jog\, 1.5 CD\nPurpose o
 END:VEVENT
 BEGIN:VEVENT
 UID:w23-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270422
 TRANSP:TRANSPARENT
@@ -2380,7 +2414,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w23-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270423
 TRANSP:TRANSPARENT
@@ -2396,7 +2430,7 @@ DESCRIPTION:Medium-long 8 mi\, steady\nPurpose of week: Provisional until y
 END:VEVENT
 BEGIN:VEVENT
 UID:w23-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270424
 DTEND;VALUE=DATE:20270425
 TRANSP:TRANSPARENT
@@ -2412,7 +2446,7 @@ DESCRIPTION:Easy 4 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w23-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
 TRANSP:TRANSPARENT
@@ -2428,7 +2462,7 @@ DESCRIPTION:Long run 13 mi\nPurpose of week: Provisional until your January
 END:VEVENT
 BEGIN:VEVENT
 UID:w24-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270426
 DTEND;VALUE=DATE:20270427
 TRANSP:TRANSPARENT
@@ -2437,7 +2471,7 @@ DESCRIPTION:Week 24. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w24-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
 TRANSP:TRANSPARENT
@@ -2446,7 +2480,7 @@ DESCRIPTION:Week 24. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w24-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 TRANSP:TRANSPARENT
@@ -2455,7 +2489,7 @@ DESCRIPTION:Week 24. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w24-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270427
 DTEND;VALUE=DATE:20270428
 TRANSP:TRANSPARENT
@@ -2471,7 +2505,7 @@ DESCRIPTION:SubT: 1.5 WU\, 5x5' sub-threshold\, 1' jog\, 1 CD\nPurpose of w
 END:VEVENT
 BEGIN:VEVENT
 UID:w24-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270428
 DTEND;VALUE=DATE:20270429
 TRANSP:TRANSPARENT
@@ -2486,7 +2520,7 @@ DESCRIPTION:Easy 4 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w24-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270429
 DTEND;VALUE=DATE:20270430
 TRANSP:TRANSPARENT
@@ -2502,7 +2536,7 @@ DESCRIPTION:Easy 5 mi + 4x20s strides\nPurpose of week: Provisional until y
 END:VEVENT
 BEGIN:VEVENT
 UID:w24-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 TRANSP:TRANSPARENT
@@ -2517,7 +2551,7 @@ DESCRIPTION:Easy 3 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w24-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270502
 DTEND;VALUE=DATE:20270503
 TRANSP:TRANSPARENT
@@ -2532,7 +2566,7 @@ DESCRIPTION:Long run 10 mi\nPurpose of week: Provisional until your January
 END:VEVENT
 BEGIN:VEVENT
 UID:w25-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270503
 DTEND;VALUE=DATE:20270504
 TRANSP:TRANSPARENT
@@ -2541,7 +2575,7 @@ DESCRIPTION:Week 25. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w25-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
 TRANSP:TRANSPARENT
@@ -2550,7 +2584,7 @@ DESCRIPTION:Week 25. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w25-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 TRANSP:TRANSPARENT
@@ -2559,7 +2593,7 @@ DESCRIPTION:Week 25. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w25-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270504
 DTEND;VALUE=DATE:20270505
 TRANSP:TRANSPARENT
@@ -2576,7 +2610,7 @@ DESCRIPTION:VO2: 2 WU\, 5x1000 m @ 5K effort\, 400 m jog\, 1.5 CD\nPurpose
 END:VEVENT
 BEGIN:VEVENT
 UID:w25-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270505
 DTEND;VALUE=DATE:20270506
 TRANSP:TRANSPARENT
@@ -2592,7 +2626,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w25-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270507
 TRANSP:TRANSPARENT
@@ -2608,7 +2642,7 @@ DESCRIPTION:SubT: 1.5 WU\, 4x8' sub-threshold\, 1' jog\, 1 CD\nPurpose of w
 END:VEVENT
 BEGIN:VEVENT
 UID:w25-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 TRANSP:TRANSPARENT
@@ -2624,7 +2658,7 @@ DESCRIPTION:Easy 4 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w25-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 TRANSP:TRANSPARENT
@@ -2639,7 +2673,7 @@ DESCRIPTION:Long run 14 mi\nPurpose of week: Provisional until your January
 END:VEVENT
 BEGIN:VEVENT
 UID:w26-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270510
 DTEND;VALUE=DATE:20270511
 TRANSP:TRANSPARENT
@@ -2648,7 +2682,7 @@ DESCRIPTION:Week 26. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w26-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270514
 DTEND;VALUE=DATE:20270515
 TRANSP:TRANSPARENT
@@ -2657,7 +2691,7 @@ DESCRIPTION:Week 26. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w26-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 TRANSP:TRANSPARENT
@@ -2666,7 +2700,7 @@ DESCRIPTION:Week 26. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w26-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270511
 DTEND;VALUE=DATE:20270512
 TRANSP:TRANSPARENT
@@ -2683,7 +2717,7 @@ DESCRIPTION:LT: 2 WU\, 25' @ threshold\, 1.5 CD\nPurpose of week: Provision
 END:VEVENT
 BEGIN:VEVENT
 UID:w26-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270512
 DTEND;VALUE=DATE:20270513
 TRANSP:TRANSPARENT
@@ -2699,7 +2733,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w26-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270513
 DTEND;VALUE=DATE:20270514
 TRANSP:TRANSPARENT
@@ -2716,7 +2750,7 @@ DESCRIPTION:SubT: 1.5 WU\, 5x6' sub-threshold\, 1' jog\, 1 CD\nPurpose of w
 END:VEVENT
 BEGIN:VEVENT
 UID:w26-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
 TRANSP:TRANSPARENT
@@ -2732,7 +2766,7 @@ DESCRIPTION:Easy 4 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w26-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
 TRANSP:TRANSPARENT
@@ -2748,7 +2782,7 @@ DESCRIPTION:Long run 10 mi\, or optional 10K tune-up\nPurpose of week: Prov
 END:VEVENT
 BEGIN:VEVENT
 UID:w27-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270517
 DTEND;VALUE=DATE:20270518
 TRANSP:TRANSPARENT
@@ -2757,7 +2791,7 @@ DESCRIPTION:Week 27. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w27-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270521
 DTEND;VALUE=DATE:20270522
 TRANSP:TRANSPARENT
@@ -2766,7 +2800,7 @@ DESCRIPTION:Week 27. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w27-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270523
 TRANSP:TRANSPARENT
@@ -2775,7 +2809,7 @@ DESCRIPTION:Week 27. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w27-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270518
 DTEND;VALUE=DATE:20270519
 TRANSP:TRANSPARENT
@@ -2792,7 +2826,7 @@ DESCRIPTION:LT: 2 WU\, 2x15' @ threshold\, 3' jog\, 1.5 CD\nPurpose of week
 END:VEVENT
 BEGIN:VEVENT
 UID:w27-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270519
 DTEND;VALUE=DATE:20270520
 TRANSP:TRANSPARENT
@@ -2808,7 +2842,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w27-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270521
 TRANSP:TRANSPARENT
@@ -2824,7 +2858,7 @@ DESCRIPTION:Medium-long 9 mi\, steady\nPurpose of week: Provisional until y
 END:VEVENT
 BEGIN:VEVENT
 UID:w27-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270522
 DTEND;VALUE=DATE:20270523
 TRANSP:TRANSPARENT
@@ -2840,7 +2874,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w27-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270523
 DTEND;VALUE=DATE:20270524
 TRANSP:TRANSPARENT
@@ -2856,7 +2890,7 @@ DESCRIPTION:Long run 15 mi\nPurpose of week: Provisional until your January
 END:VEVENT
 BEGIN:VEVENT
 UID:w28-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270524
 DTEND;VALUE=DATE:20270525
 TRANSP:TRANSPARENT
@@ -2865,7 +2899,7 @@ DESCRIPTION:Week 28. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w28-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270528
 DTEND;VALUE=DATE:20270529
 TRANSP:TRANSPARENT
@@ -2874,7 +2908,7 @@ DESCRIPTION:Week 28. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w28-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270529
 DTEND;VALUE=DATE:20270530
 TRANSP:TRANSPARENT
@@ -2883,7 +2917,7 @@ DESCRIPTION:Week 28. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w28-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270525
 DTEND;VALUE=DATE:20270526
 TRANSP:TRANSPARENT
@@ -2899,7 +2933,7 @@ DESCRIPTION:SubT: 1.5 WU\, 5x5' sub-threshold\, 1' jog\, 1 CD\nPurpose of w
 END:VEVENT
 BEGIN:VEVENT
 UID:w28-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270526
 DTEND;VALUE=DATE:20270527
 TRANSP:TRANSPARENT
@@ -2914,7 +2948,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w28-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270528
 TRANSP:TRANSPARENT
@@ -2929,7 +2963,7 @@ DESCRIPTION:Easy 5 mi + 4x20s strides\nPurpose of week: Provisional until y
 END:VEVENT
 BEGIN:VEVENT
 UID:w28-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270529
 DTEND;VALUE=DATE:20270530
 TRANSP:TRANSPARENT
@@ -2944,7 +2978,7 @@ DESCRIPTION:Easy 4 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w28-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270530
 DTEND;VALUE=DATE:20270531
 TRANSP:TRANSPARENT
@@ -2959,7 +2993,7 @@ DESCRIPTION:Long run 11 mi\nPurpose of week: Provisional until your January
 END:VEVENT
 BEGIN:VEVENT
 UID:w29-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270531
 DTEND;VALUE=DATE:20270601
 TRANSP:TRANSPARENT
@@ -2968,7 +3002,7 @@ DESCRIPTION:Week 29. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w29-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270604
 DTEND;VALUE=DATE:20270605
 TRANSP:TRANSPARENT
@@ -2977,7 +3011,7 @@ DESCRIPTION:Week 29. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w29-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270606
 TRANSP:TRANSPARENT
@@ -2986,7 +3020,7 @@ DESCRIPTION:Week 29. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w29-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270601
 DTEND;VALUE=DATE:20270602
 TRANSP:TRANSPARENT
@@ -3002,7 +3036,7 @@ DESCRIPTION:SubT: 1.5 WU\, 5x8' sub-threshold\, 1' jog\, 1 CD\nPurpose of w
 END:VEVENT
 BEGIN:VEVENT
 UID:w29-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270602
 DTEND;VALUE=DATE:20270603
 TRANSP:TRANSPARENT
@@ -3017,7 +3051,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w29-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270603
 DTEND;VALUE=DATE:20270604
 TRANSP:TRANSPARENT
@@ -3033,7 +3067,7 @@ DESCRIPTION:Medium-long 10 mi\, steady\nPurpose of week: Provisional until
 END:VEVENT
 BEGIN:VEVENT
 UID:w29-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270605
 DTEND;VALUE=DATE:20270606
 TRANSP:TRANSPARENT
@@ -3048,7 +3082,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w29-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270606
 DTEND;VALUE=DATE:20270607
 TRANSP:TRANSPARENT
@@ -3063,7 +3097,7 @@ DESCRIPTION:Long run 16 mi\nPurpose of week: Provisional until your January
 END:VEVENT
 BEGIN:VEVENT
 UID:w30-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270607
 DTEND;VALUE=DATE:20270608
 TRANSP:TRANSPARENT
@@ -3072,7 +3106,7 @@ DESCRIPTION:Week 30. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w30-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270611
 DTEND;VALUE=DATE:20270612
 TRANSP:TRANSPARENT
@@ -3081,7 +3115,7 @@ DESCRIPTION:Week 30. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w30-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270612
 DTEND;VALUE=DATE:20270613
 TRANSP:TRANSPARENT
@@ -3090,7 +3124,7 @@ DESCRIPTION:Week 30. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w30-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270608
 DTEND;VALUE=DATE:20270609
 TRANSP:TRANSPARENT
@@ -3107,7 +3141,7 @@ DESCRIPTION:LT: 2 WU\, 30' @ threshold\, 1.5 CD\nPurpose of week: Provision
 END:VEVENT
 BEGIN:VEVENT
 UID:w30-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270610
 TRANSP:TRANSPARENT
@@ -3123,7 +3157,7 @@ DESCRIPTION:Easy 6 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w30-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270610
 DTEND;VALUE=DATE:20270611
 TRANSP:TRANSPARENT
@@ -3140,7 +3174,7 @@ DESCRIPTION:Medium-long 10 mi\, steady\nPurpose of week: Provisional until
 END:VEVENT
 BEGIN:VEVENT
 UID:w30-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270612
 DTEND;VALUE=DATE:20270613
 TRANSP:TRANSPARENT
@@ -3156,7 +3190,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w30-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270613
 DTEND;VALUE=DATE:20270614
 TRANSP:TRANSPARENT
@@ -3173,7 +3207,7 @@ DESCRIPTION:Long run 16 mi\, last 3 mi GA pace\nPurpose of week: Provisiona
 END:VEVENT
 BEGIN:VEVENT
 UID:w31-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270614
 DTEND;VALUE=DATE:20270615
 TRANSP:TRANSPARENT
@@ -3182,7 +3216,7 @@ DESCRIPTION:Week 31. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w31-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270618
 DTEND;VALUE=DATE:20270619
 TRANSP:TRANSPARENT
@@ -3191,7 +3225,7 @@ DESCRIPTION:Week 31. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w31-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270619
 DTEND;VALUE=DATE:20270620
 TRANSP:TRANSPARENT
@@ -3200,7 +3234,7 @@ DESCRIPTION:Week 31. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w31-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270615
 DTEND;VALUE=DATE:20270616
 TRANSP:TRANSPARENT
@@ -3217,7 +3251,7 @@ DESCRIPTION:SubT: 1.5 WU\, 4x10' sub-threshold\, 1' jog\, 1 CD\nPurpose of
 END:VEVENT
 BEGIN:VEVENT
 UID:w31-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270616
 DTEND;VALUE=DATE:20270617
 TRANSP:TRANSPARENT
@@ -3233,7 +3267,7 @@ DESCRIPTION:Easy 6 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w31-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270617
 DTEND;VALUE=DATE:20270618
 TRANSP:TRANSPARENT
@@ -3250,7 +3284,7 @@ DESCRIPTION:Medium-long 10 mi\, steady\nPurpose of week: Provisional until
 END:VEVENT
 BEGIN:VEVENT
 UID:w31-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270619
 DTEND;VALUE=DATE:20270620
 TRANSP:TRANSPARENT
@@ -3266,7 +3300,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w31-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270620
 DTEND;VALUE=DATE:20270621
 TRANSP:TRANSPARENT
@@ -3282,7 +3316,7 @@ DESCRIPTION:Long run 17 mi\nPurpose of week: Provisional until your January
 END:VEVENT
 BEGIN:VEVENT
 UID:w32-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270621
 DTEND;VALUE=DATE:20270622
 TRANSP:TRANSPARENT
@@ -3291,7 +3325,7 @@ DESCRIPTION:Week 32. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w32-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270625
 DTEND;VALUE=DATE:20270626
 TRANSP:TRANSPARENT
@@ -3300,7 +3334,7 @@ DESCRIPTION:Week 32. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w32-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270626
 DTEND;VALUE=DATE:20270627
 TRANSP:TRANSPARENT
@@ -3309,7 +3343,7 @@ DESCRIPTION:Week 32. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w32-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270622
 DTEND;VALUE=DATE:20270623
 TRANSP:TRANSPARENT
@@ -3325,7 +3359,7 @@ DESCRIPTION:SubT: 1.5 WU\, 4x6' sub-threshold\, 1' jog\, 1 CD\nPurpose of w
 END:VEVENT
 BEGIN:VEVENT
 UID:w32-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270623
 DTEND;VALUE=DATE:20270624
 TRANSP:TRANSPARENT
@@ -3341,7 +3375,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w32-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270624
 DTEND;VALUE=DATE:20270625
 TRANSP:TRANSPARENT
@@ -3357,7 +3391,7 @@ DESCRIPTION:Easy 5 mi + 4x20s strides\nPurpose of week: Provisional until y
 END:VEVENT
 BEGIN:VEVENT
 UID:w32-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270626
 DTEND;VALUE=DATE:20270627
 TRANSP:TRANSPARENT
@@ -3373,7 +3407,7 @@ DESCRIPTION:Easy 4 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w32-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270627
 DTEND;VALUE=DATE:20270628
 TRANSP:TRANSPARENT
@@ -3389,7 +3423,7 @@ DESCRIPTION:Long run 12 mi\nPurpose of week: Provisional until your January
 END:VEVENT
 BEGIN:VEVENT
 UID:w33-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270628
 DTEND;VALUE=DATE:20270629
 TRANSP:TRANSPARENT
@@ -3398,7 +3432,7 @@ DESCRIPTION:Week 33. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w33-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270702
 DTEND;VALUE=DATE:20270703
 TRANSP:TRANSPARENT
@@ -3407,7 +3441,7 @@ DESCRIPTION:Week 33. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w33-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270703
 DTEND;VALUE=DATE:20270704
 TRANSP:TRANSPARENT
@@ -3416,7 +3450,7 @@ DESCRIPTION:Week 33. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w33-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270629
 DTEND;VALUE=DATE:20270630
 TRANSP:TRANSPARENT
@@ -3432,7 +3466,7 @@ DESCRIPTION:SubT: 1.5 WU\, 5x6' sub-threshold\, 1' jog\, 1 CD\nPurpose of w
 END:VEVENT
 BEGIN:VEVENT
 UID:w33-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270630
 DTEND;VALUE=DATE:20270701
 TRANSP:TRANSPARENT
@@ -3447,7 +3481,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w33-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270701
 DTEND;VALUE=DATE:20270702
 TRANSP:TRANSPARENT
@@ -3462,7 +3496,7 @@ DESCRIPTION:Medium-long 8 mi\, steady\nPurpose of week: Provisional until y
 END:VEVENT
 BEGIN:VEVENT
 UID:w33-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270703
 DTEND;VALUE=DATE:20270704
 TRANSP:TRANSPARENT
@@ -3477,7 +3511,7 @@ DESCRIPTION:Easy 4 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w33-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270704
 DTEND;VALUE=DATE:20270705
 TRANSP:TRANSPARENT
@@ -3492,7 +3526,7 @@ DESCRIPTION:Long run 13 mi\nPurpose of week: Provisional until your January
 END:VEVENT
 BEGIN:VEVENT
 UID:w34-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270705
 DTEND;VALUE=DATE:20270706
 TRANSP:TRANSPARENT
@@ -3501,7 +3535,7 @@ DESCRIPTION:Week 34. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w34-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270709
 DTEND;VALUE=DATE:20270710
 TRANSP:TRANSPARENT
@@ -3510,7 +3544,7 @@ DESCRIPTION:Week 34. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w34-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270710
 DTEND;VALUE=DATE:20270711
 TRANSP:TRANSPARENT
@@ -3519,7 +3553,7 @@ DESCRIPTION:Week 34. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w34-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270706
 DTEND;VALUE=DATE:20270707
 TRANSP:TRANSPARENT
@@ -3534,7 +3568,7 @@ DESCRIPTION:LT: 2 WU\, 25' @ threshold\, 1.5 CD\nPurpose of week: Provision
 END:VEVENT
 BEGIN:VEVENT
 UID:w34-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270707
 DTEND;VALUE=DATE:20270708
 TRANSP:TRANSPARENT
@@ -3548,7 +3582,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w34-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270708
 DTEND;VALUE=DATE:20270709
 TRANSP:TRANSPARENT
@@ -3563,7 +3597,7 @@ DESCRIPTION:Medium-long 9 mi\, steady\nPurpose of week: Provisional until y
 END:VEVENT
 BEGIN:VEVENT
 UID:w34-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270710
 DTEND;VALUE=DATE:20270711
 TRANSP:TRANSPARENT
@@ -3577,7 +3611,7 @@ DESCRIPTION:Easy 4 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w34-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270711
 DTEND;VALUE=DATE:20270712
 TRANSP:TRANSPARENT
@@ -3591,7 +3625,7 @@ DESCRIPTION:Long run 14 mi\nPurpose of week: Provisional until your January
 END:VEVENT
 BEGIN:VEVENT
 UID:w35-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270712
 DTEND;VALUE=DATE:20270713
 TRANSP:TRANSPARENT
@@ -3600,7 +3634,7 @@ DESCRIPTION:Week 35. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w35-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270716
 DTEND;VALUE=DATE:20270717
 TRANSP:TRANSPARENT
@@ -3609,7 +3643,7 @@ DESCRIPTION:Week 35. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w35-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270717
 DTEND;VALUE=DATE:20270718
 TRANSP:TRANSPARENT
@@ -3618,7 +3652,7 @@ DESCRIPTION:Week 35. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w35-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270713
 DTEND;VALUE=DATE:20270714
 TRANSP:TRANSPARENT
@@ -3633,7 +3667,7 @@ DESCRIPTION:SubT: 1.5 WU\, 4x8' sub-threshold\, 1' jog\, 1 CD\nPurpose of w
 END:VEVENT
 BEGIN:VEVENT
 UID:w35-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270714
 DTEND;VALUE=DATE:20270715
 TRANSP:TRANSPARENT
@@ -3647,7 +3681,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w35-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270715
 DTEND;VALUE=DATE:20270716
 TRANSP:TRANSPARENT
@@ -3662,7 +3696,7 @@ DESCRIPTION:Medium-long 10 mi\, steady\nPurpose of week: Provisional until
 END:VEVENT
 BEGIN:VEVENT
 UID:w35-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270717
 DTEND;VALUE=DATE:20270718
 TRANSP:TRANSPARENT
@@ -3676,7 +3710,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w35-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270718
 DTEND;VALUE=DATE:20270719
 TRANSP:TRANSPARENT
@@ -3690,7 +3724,7 @@ DESCRIPTION:Long run 15 mi\nPurpose of week: Provisional until your January
 END:VEVENT
 BEGIN:VEVENT
 UID:w36-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270719
 DTEND;VALUE=DATE:20270720
 TRANSP:TRANSPARENT
@@ -3699,7 +3733,7 @@ DESCRIPTION:Week 36. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w36-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270723
 DTEND;VALUE=DATE:20270724
 TRANSP:TRANSPARENT
@@ -3708,7 +3742,7 @@ DESCRIPTION:Week 36. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w36-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270724
 DTEND;VALUE=DATE:20270725
 TRANSP:TRANSPARENT
@@ -3717,7 +3751,7 @@ DESCRIPTION:Week 36. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w36-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270720
 DTEND;VALUE=DATE:20270721
 TRANSP:TRANSPARENT
@@ -3731,7 +3765,7 @@ DESCRIPTION:SubT: 1.5 WU\, 5x5' sub-threshold\, 1' jog\, 1 CD\nPurpose of w
 END:VEVENT
 BEGIN:VEVENT
 UID:w36-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270721
 DTEND;VALUE=DATE:20270722
 TRANSP:TRANSPARENT
@@ -3745,7 +3779,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w36-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270722
 DTEND;VALUE=DATE:20270723
 TRANSP:TRANSPARENT
@@ -3759,7 +3793,7 @@ DESCRIPTION:Medium-long 8 mi\, steady\nPurpose of week: Provisional until y
 END:VEVENT
 BEGIN:VEVENT
 UID:w36-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270724
 DTEND;VALUE=DATE:20270725
 TRANSP:TRANSPARENT
@@ -3773,7 +3807,7 @@ DESCRIPTION:Easy 4 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w36-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270725
 DTEND;VALUE=DATE:20270726
 TRANSP:TRANSPARENT
@@ -3787,7 +3821,7 @@ DESCRIPTION:Long run 12 mi\nPurpose of week: Provisional until your January
 END:VEVENT
 BEGIN:VEVENT
 UID:w37-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270726
 DTEND;VALUE=DATE:20270727
 TRANSP:TRANSPARENT
@@ -3796,7 +3830,7 @@ DESCRIPTION:Week 37. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w37-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270730
 DTEND;VALUE=DATE:20270731
 TRANSP:TRANSPARENT
@@ -3805,7 +3839,7 @@ DESCRIPTION:Week 37. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w37-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270731
 DTEND;VALUE=DATE:20270801
 TRANSP:TRANSPARENT
@@ -3814,7 +3848,7 @@ DESCRIPTION:Week 37. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w37-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270727
 DTEND;VALUE=DATE:20270728
 TRANSP:TRANSPARENT
@@ -3829,7 +3863,7 @@ DESCRIPTION:LT: 2 WU\, 2x15' @ threshold\, 3' jog\, 1.5 CD\nPurpose of week
 END:VEVENT
 BEGIN:VEVENT
 UID:w37-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270728
 DTEND;VALUE=DATE:20270729
 TRANSP:TRANSPARENT
@@ -3843,7 +3877,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w37-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270729
 DTEND;VALUE=DATE:20270730
 TRANSP:TRANSPARENT
@@ -3858,7 +3892,7 @@ DESCRIPTION:Medium-long 10 mi\, steady\nPurpose of week: Provisional until
 END:VEVENT
 BEGIN:VEVENT
 UID:w37-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270731
 DTEND;VALUE=DATE:20270801
 TRANSP:TRANSPARENT
@@ -3872,7 +3906,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w37-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270801
 DTEND;VALUE=DATE:20270802
 TRANSP:TRANSPARENT
@@ -3886,7 +3920,7 @@ DESCRIPTION:Long run 16 mi\nPurpose of week: Provisional until your January
 END:VEVENT
 BEGIN:VEVENT
 UID:w38-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270802
 DTEND;VALUE=DATE:20270803
 TRANSP:TRANSPARENT
@@ -3895,7 +3929,7 @@ DESCRIPTION:Week 38. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w38-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270806
 DTEND;VALUE=DATE:20270807
 TRANSP:TRANSPARENT
@@ -3904,7 +3938,7 @@ DESCRIPTION:Week 38. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w38-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270807
 DTEND;VALUE=DATE:20270808
 TRANSP:TRANSPARENT
@@ -3913,7 +3947,7 @@ DESCRIPTION:Week 38. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w38-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270803
 DTEND;VALUE=DATE:20270804
 TRANSP:TRANSPARENT
@@ -3928,7 +3962,7 @@ DESCRIPTION:SubT: 1.5 WU\, 3x12' sub-threshold\, 1' jog\, 1 CD\nPurpose of
 END:VEVENT
 BEGIN:VEVENT
 UID:w38-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270804
 DTEND;VALUE=DATE:20270805
 TRANSP:TRANSPARENT
@@ -3943,7 +3977,7 @@ DESCRIPTION:Easy 6 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w38-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270805
 DTEND;VALUE=DATE:20270806
 TRANSP:TRANSPARENT
@@ -3958,7 +3992,7 @@ DESCRIPTION:Medium-long 11 mi\, steady\nPurpose of week: Provisional until
 END:VEVENT
 BEGIN:VEVENT
 UID:w38-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270807
 DTEND;VALUE=DATE:20270808
 TRANSP:TRANSPARENT
@@ -3973,7 +4007,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w38-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270808
 DTEND;VALUE=DATE:20270809
 TRANSP:TRANSPARENT
@@ -3988,7 +4022,7 @@ DESCRIPTION:Long run 17 mi\nPurpose of week: Provisional until your January
 END:VEVENT
 BEGIN:VEVENT
 UID:w39-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270809
 DTEND;VALUE=DATE:20270810
 TRANSP:TRANSPARENT
@@ -3997,7 +4031,7 @@ DESCRIPTION:Week 39. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w39-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270813
 DTEND;VALUE=DATE:20270814
 TRANSP:TRANSPARENT
@@ -4006,7 +4040,7 @@ DESCRIPTION:Week 39. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w39-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270814
 DTEND;VALUE=DATE:20270815
 TRANSP:TRANSPARENT
@@ -4015,7 +4049,7 @@ DESCRIPTION:Week 39. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w39-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270810
 DTEND;VALUE=DATE:20270811
 TRANSP:TRANSPARENT
@@ -4032,7 +4066,7 @@ DESCRIPTION:LT: 2 WU\, 35' @ threshold\, 1.5 CD\nPurpose of week: Provision
 END:VEVENT
 BEGIN:VEVENT
 UID:w39-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270811
 DTEND;VALUE=DATE:20270812
 TRANSP:TRANSPARENT
@@ -4048,7 +4082,7 @@ DESCRIPTION:Easy 6 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w39-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270812
 DTEND;VALUE=DATE:20270813
 TRANSP:TRANSPARENT
@@ -4065,7 +4099,7 @@ DESCRIPTION:Medium-long 11 mi\, steady\nPurpose of week: Provisional until
 END:VEVENT
 BEGIN:VEVENT
 UID:w39-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270814
 DTEND;VALUE=DATE:20270815
 TRANSP:TRANSPARENT
@@ -4081,7 +4115,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w39-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270815
 DTEND;VALUE=DATE:20270816
 TRANSP:TRANSPARENT
@@ -4098,7 +4132,7 @@ DESCRIPTION:Long run 18 mi\, last 4 mi @ MP 9:09\nPurpose of week: Provisio
 END:VEVENT
 BEGIN:VEVENT
 UID:w40-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270816
 DTEND;VALUE=DATE:20270817
 TRANSP:TRANSPARENT
@@ -4107,7 +4141,7 @@ DESCRIPTION:Week 40. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w40-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270820
 DTEND;VALUE=DATE:20270821
 TRANSP:TRANSPARENT
@@ -4116,7 +4150,7 @@ DESCRIPTION:Week 40. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w40-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270821
 DTEND;VALUE=DATE:20270822
 TRANSP:TRANSPARENT
@@ -4125,7 +4159,7 @@ DESCRIPTION:Week 40. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w40-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270817
 DTEND;VALUE=DATE:20270818
 TRANSP:TRANSPARENT
@@ -4140,7 +4174,7 @@ DESCRIPTION:SubT: 1.5 WU\, 5x5' sub-threshold\, 1' jog\, 1 CD\nPurpose of w
 END:VEVENT
 BEGIN:VEVENT
 UID:w40-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270818
 DTEND;VALUE=DATE:20270819
 TRANSP:TRANSPARENT
@@ -4154,7 +4188,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w40-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270819
 DTEND;VALUE=DATE:20270820
 TRANSP:TRANSPARENT
@@ -4169,7 +4203,7 @@ DESCRIPTION:Medium-long 9 mi\, steady\nPurpose of week: Provisional until y
 END:VEVENT
 BEGIN:VEVENT
 UID:w40-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270821
 DTEND;VALUE=DATE:20270822
 TRANSP:TRANSPARENT
@@ -4183,7 +4217,7 @@ DESCRIPTION:Easy 4 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w40-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270822
 DTEND;VALUE=DATE:20270823
 TRANSP:TRANSPARENT
@@ -4197,7 +4231,7 @@ DESCRIPTION:Long run 13 mi\nPurpose of week: Provisional until your January
 END:VEVENT
 BEGIN:VEVENT
 UID:w41-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270823
 DTEND;VALUE=DATE:20270824
 TRANSP:TRANSPARENT
@@ -4206,7 +4240,7 @@ DESCRIPTION:Week 41. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w41-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270827
 DTEND;VALUE=DATE:20270828
 TRANSP:TRANSPARENT
@@ -4215,7 +4249,7 @@ DESCRIPTION:Week 41. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w41-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270828
 DTEND;VALUE=DATE:20270829
 TRANSP:TRANSPARENT
@@ -4224,7 +4258,7 @@ DESCRIPTION:Week 41. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w41-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270824
 DTEND;VALUE=DATE:20270825
 TRANSP:TRANSPARENT
@@ -4240,7 +4274,7 @@ DESCRIPTION:SubT: 1.5 WU\, 5x8' sub-threshold\, 1' jog\, 1 CD\nPurpose of w
 END:VEVENT
 BEGIN:VEVENT
 UID:w41-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270825
 DTEND;VALUE=DATE:20270826
 TRANSP:TRANSPARENT
@@ -4255,7 +4289,7 @@ DESCRIPTION:Easy 6 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w41-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270826
 DTEND;VALUE=DATE:20270827
 TRANSP:TRANSPARENT
@@ -4270,7 +4304,7 @@ DESCRIPTION:Medium-long 12 mi\, steady\nPurpose of week: Provisional until
 END:VEVENT
 BEGIN:VEVENT
 UID:w41-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270828
 DTEND;VALUE=DATE:20270829
 TRANSP:TRANSPARENT
@@ -4285,7 +4319,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w41-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270829
 DTEND;VALUE=DATE:20270830
 TRANSP:TRANSPARENT
@@ -4300,7 +4334,7 @@ DESCRIPTION:Long run 18 mi\, 8 mi @ MP 9:09 in the middle\nPurpose of week:
 END:VEVENT
 BEGIN:VEVENT
 UID:w42-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270830
 DTEND;VALUE=DATE:20270831
 TRANSP:TRANSPARENT
@@ -4309,7 +4343,7 @@ DESCRIPTION:Week 42. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w42-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270903
 DTEND;VALUE=DATE:20270904
 TRANSP:TRANSPARENT
@@ -4318,7 +4352,7 @@ DESCRIPTION:Week 42. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w42-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270904
 DTEND;VALUE=DATE:20270905
 TRANSP:TRANSPARENT
@@ -4327,7 +4361,7 @@ DESCRIPTION:Week 42. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w42-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270831
 DTEND;VALUE=DATE:20270901
 TRANSP:TRANSPARENT
@@ -4344,7 +4378,7 @@ DESCRIPTION:LT: 2 WU\, 2x20' @ threshold\, 3' jog\, 1.5 CD\nPurpose of week
 END:VEVENT
 BEGIN:VEVENT
 UID:w42-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270901
 DTEND;VALUE=DATE:20270902
 TRANSP:TRANSPARENT
@@ -4360,7 +4394,7 @@ DESCRIPTION:Easy 6 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w42-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270902
 DTEND;VALUE=DATE:20270903
 TRANSP:TRANSPARENT
@@ -4377,7 +4411,7 @@ DESCRIPTION:Medium-long 11 mi\, steady\nPurpose of week: Provisional until
 END:VEVENT
 BEGIN:VEVENT
 UID:w42-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270904
 DTEND;VALUE=DATE:20270905
 TRANSP:TRANSPARENT
@@ -4393,7 +4427,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w42-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270905
 DTEND;VALUE=DATE:20270906
 TRANSP:TRANSPARENT
@@ -4409,7 +4443,7 @@ DESCRIPTION:Long run 20 mi\, easy/GA\nPurpose of week: Provisional until yo
 END:VEVENT
 BEGIN:VEVENT
 UID:w43-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270906
 DTEND;VALUE=DATE:20270907
 TRANSP:TRANSPARENT
@@ -4418,7 +4452,7 @@ DESCRIPTION:Week 43. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w43-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270910
 DTEND;VALUE=DATE:20270911
 TRANSP:TRANSPARENT
@@ -4427,7 +4461,7 @@ DESCRIPTION:Week 43. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w43-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270911
 DTEND;VALUE=DATE:20270912
 TRANSP:TRANSPARENT
@@ -4436,7 +4470,7 @@ DESCRIPTION:Week 43. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w43-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270907
 DTEND;VALUE=DATE:20270908
 TRANSP:TRANSPARENT
@@ -4453,7 +4487,7 @@ DESCRIPTION:SubT: 1.5 WU\, 4x10' sub-threshold\, 1' jog\, 1 CD\nPurpose of
 END:VEVENT
 BEGIN:VEVENT
 UID:w43-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270908
 DTEND;VALUE=DATE:20270909
 TRANSP:TRANSPARENT
@@ -4469,7 +4503,7 @@ DESCRIPTION:Easy 6 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w43-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270909
 DTEND;VALUE=DATE:20270910
 TRANSP:TRANSPARENT
@@ -4485,7 +4519,7 @@ DESCRIPTION:Medium-long 12 mi\, steady\nPurpose of week: Provisional until
 END:VEVENT
 BEGIN:VEVENT
 UID:w43-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270911
 DTEND;VALUE=DATE:20270912
 TRANSP:TRANSPARENT
@@ -4501,7 +4535,7 @@ DESCRIPTION:Easy 6 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w43-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270912
 DTEND;VALUE=DATE:20270913
 TRANSP:TRANSPARENT
@@ -4517,7 +4551,7 @@ DESCRIPTION:Long run 18 mi\, 10 mi @ MP 9:09\nPurpose of week: Provisional
 END:VEVENT
 BEGIN:VEVENT
 UID:w44-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270913
 DTEND;VALUE=DATE:20270914
 TRANSP:TRANSPARENT
@@ -4526,7 +4560,7 @@ DESCRIPTION:Week 44. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w44-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270917
 DTEND;VALUE=DATE:20270918
 TRANSP:TRANSPARENT
@@ -4535,7 +4569,7 @@ DESCRIPTION:Week 44. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w44-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270918
 DTEND;VALUE=DATE:20270919
 TRANSP:TRANSPARENT
@@ -4544,7 +4578,7 @@ DESCRIPTION:Week 44. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w44-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270914
 DTEND;VALUE=DATE:20270915
 TRANSP:TRANSPARENT
@@ -4559,7 +4593,7 @@ DESCRIPTION:SubT: 1.5 WU\, 5x5' sub-threshold\, 1' jog\, 1 CD\nPurpose of w
 END:VEVENT
 BEGIN:VEVENT
 UID:w44-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270915
 DTEND;VALUE=DATE:20270916
 TRANSP:TRANSPARENT
@@ -4573,7 +4607,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w44-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270916
 DTEND;VALUE=DATE:20270917
 TRANSP:TRANSPARENT
@@ -4588,7 +4622,7 @@ DESCRIPTION:Medium-long 9 mi\, steady\nPurpose of week: Provisional until y
 END:VEVENT
 BEGIN:VEVENT
 UID:w44-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270918
 DTEND;VALUE=DATE:20270919
 TRANSP:TRANSPARENT
@@ -4602,7 +4636,7 @@ DESCRIPTION:Easy 4 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w44-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270919
 DTEND;VALUE=DATE:20270920
 TRANSP:TRANSPARENT
@@ -4616,7 +4650,7 @@ DESCRIPTION:Long run 14 mi\nPurpose of week: Provisional until your January
 END:VEVENT
 BEGIN:VEVENT
 UID:w45-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270920
 DTEND;VALUE=DATE:20270921
 TRANSP:TRANSPARENT
@@ -4625,7 +4659,7 @@ DESCRIPTION:Week 45. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w45-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270924
 DTEND;VALUE=DATE:20270925
 TRANSP:TRANSPARENT
@@ -4634,7 +4668,7 @@ DESCRIPTION:Week 45. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w45-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270925
 DTEND;VALUE=DATE:20270926
 TRANSP:TRANSPARENT
@@ -4643,7 +4677,7 @@ DESCRIPTION:Week 45. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w45-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270921
 DTEND;VALUE=DATE:20270922
 TRANSP:TRANSPARENT
@@ -4660,7 +4694,7 @@ DESCRIPTION:SubT: 1.5 WU\, 5x6' sub-threshold\, 1' jog\, 1 CD\nPurpose of w
 END:VEVENT
 BEGIN:VEVENT
 UID:w45-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270922
 DTEND;VALUE=DATE:20270923
 TRANSP:TRANSPARENT
@@ -4676,7 +4710,7 @@ DESCRIPTION:Easy 6 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w45-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270923
 DTEND;VALUE=DATE:20270924
 TRANSP:TRANSPARENT
@@ -4692,7 +4726,7 @@ DESCRIPTION:Medium-long 11 mi\, steady\nPurpose of week: Provisional until
 END:VEVENT
 BEGIN:VEVENT
 UID:w45-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270925
 DTEND;VALUE=DATE:20270926
 TRANSP:TRANSPARENT
@@ -4708,7 +4742,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w45-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270926
 DTEND;VALUE=DATE:20270927
 TRANSP:TRANSPARENT
@@ -4724,7 +4758,7 @@ DESCRIPTION:Long run 20 mi\, middle 10 mi @ MP 9:09\nPurpose of week: Provi
 END:VEVENT
 BEGIN:VEVENT
 UID:w46-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270927
 DTEND;VALUE=DATE:20270928
 TRANSP:TRANSPARENT
@@ -4733,7 +4767,7 @@ DESCRIPTION:Week 46. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w46-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271001
 DTEND;VALUE=DATE:20271002
 TRANSP:TRANSPARENT
@@ -4742,7 +4776,7 @@ DESCRIPTION:Week 46. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w46-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271002
 DTEND;VALUE=DATE:20271003
 TRANSP:TRANSPARENT
@@ -4751,7 +4785,7 @@ DESCRIPTION:Week 46. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w46-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270928
 DTEND;VALUE=DATE:20270929
 TRANSP:TRANSPARENT
@@ -4767,7 +4801,7 @@ DESCRIPTION:LT: 2 WU\, 30' @ threshold\, 1.5 CD\nPurpose of week: Provision
 END:VEVENT
 BEGIN:VEVENT
 UID:w46-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270929
 DTEND;VALUE=DATE:20270930
 TRANSP:TRANSPARENT
@@ -4782,7 +4816,7 @@ DESCRIPTION:Easy 6 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w46-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20270930
 DTEND;VALUE=DATE:20271001
 TRANSP:TRANSPARENT
@@ -4798,7 +4832,7 @@ DESCRIPTION:Medium-long 10 mi\, steady\nPurpose of week: Provisional until
 END:VEVENT
 BEGIN:VEVENT
 UID:w46-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271002
 DTEND;VALUE=DATE:20271003
 TRANSP:TRANSPARENT
@@ -4813,7 +4847,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w46-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271003
 DTEND;VALUE=DATE:20271004
 TRANSP:TRANSPARENT
@@ -4829,7 +4863,7 @@ DESCRIPTION:Long run 16 mi\, last 6 mi @ MP 9:09\nPurpose of week: Provisio
 END:VEVENT
 BEGIN:VEVENT
 UID:w47-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271004
 DTEND;VALUE=DATE:20271005
 TRANSP:TRANSPARENT
@@ -4838,7 +4872,7 @@ DESCRIPTION:Week 47. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w47-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271008
 DTEND;VALUE=DATE:20271009
 TRANSP:TRANSPARENT
@@ -4847,7 +4881,7 @@ DESCRIPTION:Week 47. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w47-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271009
 DTEND;VALUE=DATE:20271010
 TRANSP:TRANSPARENT
@@ -4856,7 +4890,7 @@ DESCRIPTION:Week 47. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w47-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271005
 DTEND;VALUE=DATE:20271006
 TRANSP:TRANSPARENT
@@ -4872,7 +4906,7 @@ DESCRIPTION:SubT: 1.5 WU\, 4x8' sub-threshold\, 1' jog\, 1 CD\nPurpose of w
 END:VEVENT
 BEGIN:VEVENT
 UID:w47-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271006
 DTEND;VALUE=DATE:20271007
 TRANSP:TRANSPARENT
@@ -4887,7 +4921,7 @@ DESCRIPTION:Easy 6 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w47-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271007
 DTEND;VALUE=DATE:20271008
 TRANSP:TRANSPARENT
@@ -4903,7 +4937,7 @@ DESCRIPTION:Medium-long 10 mi\, steady\nPurpose of week: Provisional until
 END:VEVENT
 BEGIN:VEVENT
 UID:w47-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271009
 DTEND;VALUE=DATE:20271010
 TRANSP:TRANSPARENT
@@ -4918,7 +4952,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w47-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271010
 DTEND;VALUE=DATE:20271011
 TRANSP:TRANSPARENT
@@ -4934,7 +4968,7 @@ DESCRIPTION:Long run 20 mi\, last 3 mi @ MP 9:09\nPurpose of week: Provisio
 END:VEVENT
 BEGIN:VEVENT
 UID:w48-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271011
 DTEND;VALUE=DATE:20271012
 TRANSP:TRANSPARENT
@@ -4943,7 +4977,7 @@ DESCRIPTION:Week 48. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w48-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271015
 DTEND;VALUE=DATE:20271016
 TRANSP:TRANSPARENT
@@ -4952,7 +4986,7 @@ DESCRIPTION:Week 48. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w48-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271016
 DTEND;VALUE=DATE:20271017
 TRANSP:TRANSPARENT
@@ -4961,7 +4995,7 @@ DESCRIPTION:Week 48. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w48-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271012
 DTEND;VALUE=DATE:20271013
 TRANSP:TRANSPARENT
@@ -4977,7 +5011,7 @@ DESCRIPTION:SubT: 1.5 WU\, 4x6' sub-threshold\, 1' jog\, 1 CD\nPurpose of w
 END:VEVENT
 BEGIN:VEVENT
 UID:w48-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271013
 DTEND;VALUE=DATE:20271014
 TRANSP:TRANSPARENT
@@ -4992,7 +5026,7 @@ DESCRIPTION:Easy 5 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w48-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271014
 DTEND;VALUE=DATE:20271015
 TRANSP:TRANSPARENT
@@ -5008,7 +5042,7 @@ DESCRIPTION:Medium-long 8 mi\, steady\, last 3 mi @ MP\nPurpose of week: Pr
 END:VEVENT
 BEGIN:VEVENT
 UID:w48-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271016
 DTEND;VALUE=DATE:20271017
 TRANSP:TRANSPARENT
@@ -5023,7 +5057,7 @@ DESCRIPTION:Easy 4 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w48-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271017
 DTEND;VALUE=DATE:20271018
 TRANSP:TRANSPARENT
@@ -5038,7 +5072,7 @@ DESCRIPTION:Long run 12 mi\nPurpose of week: Provisional until your January
 END:VEVENT
 BEGIN:VEVENT
 UID:w49-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271018
 DTEND;VALUE=DATE:20271019
 TRANSP:TRANSPARENT
@@ -5047,7 +5081,7 @@ DESCRIPTION:Week 49. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w49-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271022
 DTEND;VALUE=DATE:20271023
 TRANSP:TRANSPARENT
@@ -5056,7 +5090,7 @@ DESCRIPTION:Week 49. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w49-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271023
 DTEND;VALUE=DATE:20271024
 TRANSP:TRANSPARENT
@@ -5065,7 +5099,7 @@ DESCRIPTION:Week 49. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w49-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271019
 DTEND;VALUE=DATE:20271020
 TRANSP:TRANSPARENT
@@ -5081,7 +5115,7 @@ DESCRIPTION:MP: 1.5 WU\, 2x1.5 mi @ MP 9:09\, 0.5 mi jog\, 1 CD\nPurpose of
 END:VEVENT
 BEGIN:VEVENT
 UID:w49-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271020
 DTEND;VALUE=DATE:20271021
 TRANSP:TRANSPARENT
@@ -5096,7 +5130,7 @@ DESCRIPTION:Easy 4 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w49-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271021
 DTEND;VALUE=DATE:20271022
 TRANSP:TRANSPARENT
@@ -5111,7 +5145,7 @@ DESCRIPTION:Easy 5 mi + 4x20s strides\nPurpose of week: Provisional until y
 END:VEVENT
 BEGIN:VEVENT
 UID:w49-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271023
 DTEND;VALUE=DATE:20271024
 TRANSP:TRANSPARENT
@@ -5126,7 +5160,7 @@ DESCRIPTION:Easy 3 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w49-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271024
 DTEND;VALUE=DATE:20271025
 TRANSP:TRANSPARENT
@@ -5141,7 +5175,7 @@ DESCRIPTION:Long run 8 mi\nPurpose of week: Provisional until your January
 END:VEVENT
 BEGIN:VEVENT
 UID:w50-mon-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271025
 DTEND;VALUE=DATE:20271026
 TRANSP:TRANSPARENT
@@ -5150,7 +5184,7 @@ DESCRIPTION:Week 50. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w50-fri-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271029
 DTEND;VALUE=DATE:20271030
 TRANSP:TRANSPARENT
@@ -5159,7 +5193,7 @@ DESCRIPTION:Week 50. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w50-sat-strength@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271030
 DTEND;VALUE=DATE:20271031
 TRANSP:TRANSPARENT
@@ -5168,7 +5202,7 @@ DESCRIPTION:Week 50. Specifics set by your trainer.
 END:VEVENT
 BEGIN:VEVENT
 UID:w50-tue-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271026
 DTEND;VALUE=DATE:20271027
 TRANSP:TRANSPARENT
@@ -5184,7 +5218,7 @@ DESCRIPTION:Sharpener: 1.5 WU\, 4x0.5 mi @ MP\, 0.25 jog\, 1 CD\nPurpose of
 END:VEVENT
 BEGIN:VEVENT
 UID:w50-wed-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271027
 DTEND;VALUE=DATE:20271028
 TRANSP:TRANSPARENT
@@ -5199,7 +5233,7 @@ DESCRIPTION:Easy 3 mi\nPurpose of week: Provisional until your January chec
 END:VEVENT
 BEGIN:VEVENT
 UID:w50-thu-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271028
 DTEND;VALUE=DATE:20271029
 TRANSP:TRANSPARENT
@@ -5215,7 +5249,7 @@ DESCRIPTION:Easy 3 mi + 4x20s strides\nPurpose of week: Provisional until y
 END:VEVENT
 BEGIN:VEVENT
 UID:w50-sat-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271030
 DTEND;VALUE=DATE:20271031
 TRANSP:TRANSPARENT
@@ -5230,7 +5264,7 @@ DESCRIPTION:Easy 2 mi + shakeout\nPurpose of week: Provisional until your J
 END:VEVENT
 BEGIN:VEVENT
 UID:w50-sun-run@training.stulberger.com
-DTSTAMP:20261123T201347Z
+DTSTAMP:20261123T201823Z
 DTSTART;VALUE=DATE:20271031
 DTEND;VALUE=DATE:20271101
 TRANSP:TRANSPARENT
